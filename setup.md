@@ -20,7 +20,7 @@ __Storage__:  For peace of mind, I keep everything important on Dropbox, and I s
 
 I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
 
-When I'm editing in terminal, I tend to use standard UNIX vi, but I find it fairly exhausting after a while.  My all-time favorite text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
+When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
 
 For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
