@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![photo](./website_photo_bw.jpg)
+{: height="50px" }
 
 Hi, I'm Baird.  :earth_asia: :earth_americas: :earth_africa:
 
