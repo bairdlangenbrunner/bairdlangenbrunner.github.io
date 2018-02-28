@@ -62,7 +62,7 @@ A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, an
 [homebrew]:https://brew.sh/
 [anaconda]:https://www.anaconda.com/download/
 [jupyter]:http://jupyter.org/
-[ncview]:http://meteora.ucsd.edu/~pierce/ncview_home_page.html]
+[ncview]:http://meteora.ucsd.edu/~pierce/ncview_home_page.html
 [nco]:http://nco.sourceforge.net/
 [cdo]:https://code.mpimet.mpg.de/projects/cdo/
 [jisao]:http://research.jisao.washington.edu/data_sets/nco/
