@@ -4,6 +4,10 @@ title: about
 permalink: /about/
 ---
 
+{:center: style="text-align: center"}
+![Baird](../website_photo_bw.jpg)
+{:center}
+
 Hi, I'm Baird.  :earth_asia: :earth_americas: :earth_africa:
 
 I'm a climate scientist and postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/).
