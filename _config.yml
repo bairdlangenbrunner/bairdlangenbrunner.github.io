@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+theme_color: red
 plugins:
   - jekyll-feed
 
