@@ -4,9 +4,7 @@ title: about
 permalink: /about/
 ---
 
-{:center: style="text-align: center"}
-![Baird](../website_photo_bw.jpg =100x)
-{:center}
+![Baird](../website_photo_bw.jpg =50x)
 
 Hi, I'm Baird.  :earth_asia: :earth_americas: :earth_africa:
 
