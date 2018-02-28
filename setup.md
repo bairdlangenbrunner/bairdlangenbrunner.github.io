@@ -38,7 +38,7 @@ Another major selling point of Anaconda is that it allows me to maintain working
 
 My favorite text editor is typically [BBEdit][bbedit] (for .py scripts that I'm using to do heavy calculations) or [Jupyter][jupyter] Notebooks (for exploratory analysis and to fine-tune plots).
 
-My favorite Python packages are: :snake:
+__My favorite Python packages are__:
 
 * [cartopy][cartopy] for making geo-referenced maps
 * [pandas][pandas] for really simple manipulation of csv files and other common data formats
