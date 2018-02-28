@@ -54,9 +54,7 @@ A few of my favorites include:
 * [CDO][cdo]:  CDO stands for Climate Data Operators, and this set of packages serves as a really great complement to NCO.
 * [NCL][ncl]:  NCL is short for the NCAR Command Language, and this was developed by and for climate and weather scientists.  I find it a bit clunky as a language (it's unfortunately very similar to Fortran).  Still, it has a great support staff and a useful mailing list.
 
-A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.
-
-W:eyes:t!
+A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.  The days of annoying softward dependencies are mostly over:  w:eyes:t!
 
 [uses this]:https://usesthis.com/
 [iterm2]:https://www.iterm2.com/
