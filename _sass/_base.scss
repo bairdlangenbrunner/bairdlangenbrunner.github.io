@@ -60,3 +60,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+p a {
+  color: $color-primary-link;
+  text-decoration: underline;
+}
