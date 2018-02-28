@@ -30,28 +30,30 @@ To keep things clean and working on my Mac, I like to use the [Homebrew][homebre
 
 ## Languages
 
-Where coding is concerned, I'm a die-hard Python fan.  It was the first coding language I ever learned (circa 2008), and I'm a huge proponent of open-source software.  I prefer Python 3.
+In terms of data analysis, I'm a die-hard Python fan.  It was the first coding language I learned (circa 2008), I've been avoiding others ever since, and I'm a huge proponent of open-source software.
 
-My favorite way to keep Python working on my computer is via [Anaconda][anaconda] (available for Mac, LINUX, and Windows).  I think it's the best way to install, use, and maintain a Python.  The best part of Anaconda is that it can be installed in a user's home directory, and it doesn't require root permissions.  For me, this means I can create my own clean Python installation on any computer I can log into, and I don't have to worry about having administrator privileges and dealing with dependency issues.
+My favorite way to keep Python working on my computer is via [Anaconda][anaconda] (available for Mac, LINUX, and Windows).  I think it's the best way to install, use, and maintain a Python distribution.  The best part of Anaconda is that it can be installed in a user's home directory, and it doesn't require root permissions.  For me, this means I can create my own clean Python installation on any computer I can log into, and I don't have to worry about having administrator privileges and dealing with dependency issues.
 
-The editor I write Python code in is typically either BBEdit (for .py scripts that I'm using to do heavy calculations) or [Jupyter][jupyter] Notebooks (for exploratory analysis and to fine-tune plots).
+Another major selling point of Anaconda is that it allows me to maintain working environments of different Python versions and things like NCO (see below).
+
+My favorite text editor is typically [BBEdit][bbedit] (for .py scripts that I'm using to do heavy calculations) or [Jupyter][jupyter] Notebooks (for exploratory analysis and to fine-tune plots).
 
 My favorite Python packages are:
-* The Matplotlib [Basemap Toolkit][] for making geo-referenced maps
-* [pandas][] for really simple manipulation of csv files and other common data formats
-* [wrf-python][] for manipulating output from the Weather Research and Forecasting (WRF) model
-* [netCDF4][] for manipulating NetCDF files
+* [cartopy][cartopy] for making geo-referenced maps
+* [pandas][pandas] for really simple manipulation of csv files and other common data formats
+* [wrf-python][wrf-python] for manipulating output from the Weather Research and Forecasting (WRF) model
+* [netCDF4][netcdf4] for manipulating NetCDF files
 
 ## Useful tools for climate data analysis
 
 A few of my favorites include:
 
 * [ncview][ncview]:  Written by David Pierce at Scripps, this is a really lightweight way to view NetCDF files.
-* [NCO][nco]:  NCO stands for "NetCDF Operators" and has a few really great tools to splice up NetCDF files and do quick calculations on them.  [This website][jisao] out of the University of Washington has taught me everything I need to know.
-* [CDO][cdo]:  CDO means Climate Data Operators, and this set of packages serves as a really great complement to NCO.
-* [NCL][ncl]:  NCL is short for the NCAR Command Language, and this was developed by and for climate and weather scientists.  I find it a bit clunky as a language (it's unfortunately very similar to Fortran), but it does some things really well:  regridding climate data, interpolating to pressure levels, etc.  It also has a great support staff and a useful mailing list.
+* [NCO][nco]:  NCO stands for "NetCDF Operators" and has a few really great tools to splice up NetCDF files and do quick calculations on them (even regridding!).  [This website][jisao] out of the University of Washington has taught me everything I need to know.
+* [CDO][cdo]:  CDO stands for Climate Data Operators, and this set of packages serves as a really great complement to NCO.
+* [NCL][ncl]:  NCL is short for the NCAR Command Language, and this was developed by and for climate and weather scientists.  I find it a bit clunky as a language (it's unfortunately very similar to Fortran).  Still, it has a great support staff and a useful mailing list.
 
-A final and useful fact:  ncview, NCO, and CDO can all be installed using Homebrew.  NCL you'll have to install from source (but the website has good instructions).
+A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.  Woot.
 
 [uses this]:https://usesthis.com/
 [iterm2]:https://www.iterm2.com/
@@ -65,3 +67,9 @@ A final and useful fact:  ncview, NCO, and CDO can all be installed using Homebr
 [cdo]:https://code.mpimet.mpg.de/projects/cdo/
 [jisao]:http://research.jisao.washington.edu/data_sets/nco/
 [ncl]:https://www.ncl.ucar.edu/
+
+[bbedit]:https://www.barebones.com/products/bbedit/
+[cartopy]:http://scitools.org.uk/cartopy/
+[pandas]:https://pandas.pydata.org/
+[wrf-python]:http://wrf-python.readthedocs.io/en/latest/
+[netcdf4]:http://unidata.github.io/netcdf4-python/
