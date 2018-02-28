@@ -18,7 +18,7 @@ __Hardware__:  I use a Macbook Air (2015) with an up-to-date OS and 8 GB of RAM.
 
 __Storage__:  For peace of mind, I keep everything important on Dropbox, and I shell out money for the 1 TB per year option.  It's completely worth it.  My laptop was stolen in my 4th year of grad school, but thanks to cloud storage, I didn't lose a thing (well, except the computer itself).
 
-## Software
+## Software :computer:
 
 I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS.  I can also use split panes, which was one of the reasons I switched over.
 
@@ -28,7 +28,7 @@ For color schemes, I like [Solarized][solarized], which was designed to be sligh
 
 To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping all of those finicky dependencies in check, and I can even install a language specific to the climate modeling community.
 
-## Languages
+## Languages :floppy_disk:
 
 In terms of data analysis, I'm a die-hard Python fan.  It was the first coding language I learned (circa 2008), I've been avoiding others ever since, and I'm a huge proponent of open-source software.
 
@@ -38,13 +38,14 @@ Another major selling point of Anaconda is that it allows me to maintain working
 
 My favorite text editor is typically [BBEdit][bbedit] (for .py scripts that I'm using to do heavy calculations) or [Jupyter][jupyter] Notebooks (for exploratory analysis and to fine-tune plots).
 
-My favorite Python packages are:
+My favorite Python packages are: :snake:
+
 * [cartopy][cartopy] for making geo-referenced maps
 * [pandas][pandas] for really simple manipulation of csv files and other common data formats
 * [wrf-python][wrf-python] for manipulating output from the Weather Research and Forecasting (WRF) model
 * [netCDF4][netcdf4] for manipulating NetCDF files
 
-## Useful tools for climate data analysis
+## Useful tools for climate data analysis :earth_americas:
 
 A few of my favorites include:
 
@@ -53,7 +54,7 @@ A few of my favorites include:
 * [CDO][cdo]:  CDO stands for Climate Data Operators, and this set of packages serves as a really great complement to NCO.
 * [NCL][ncl]:  NCL is short for the NCAR Command Language, and this was developed by and for climate and weather scientists.  I find it a bit clunky as a language (it's unfortunately very similar to Fortran).  Still, it has a great support staff and a useful mailing list.
 
-A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.  Woot.
+A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.  W:eyes:t.
 
 [uses this]:https://usesthis.com/
 [iterm2]:https://www.iterm2.com/
