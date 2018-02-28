@@ -67,7 +67,6 @@ A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, an
 [cdo]:https://code.mpimet.mpg.de/projects/cdo/
 [jisao]:http://research.jisao.washington.edu/data_sets/nco/
 [ncl]:https://www.ncl.ucar.edu/
-
 [bbedit]:https://www.barebones.com/products/bbedit/
 [cartopy]:http://scitools.org.uk/cartopy/
 [pandas]:https://pandas.pydata.org/
