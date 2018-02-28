@@ -32,7 +32,7 @@ In terms of data analysis, I'm a die-hard Python fan.  It was the first coding l
 
 My favorite way to keep the Python ecosystem on my computer healthy is [Anaconda][anaconda] (available for Mac, LINUX, and Windows).  I think it's the best way to install, use, and maintain a Python distribution.  The best part of Anaconda is that it can be installed in a user's home directory, and it doesn't require root permissions.  For me, this means I can create my own clean Python installation on _any_ computer I can log into, and I don't have to worry about having administrator privileges or dealing with dependency issues.
 
-Another major selling point of Anaconda is that it allows me to maintain working environments of different Python versions and things like NCO.  This was an unexpected bonus; it's now easier than ever to have multiple, complex software programs installed and contained on your own computer.
+Another major selling point of Anaconda is that it allows me to maintain working environments of different Python versions and other goodies like NCO and CDO (see below).  In my experience, it's now easier than ever to have multiple, complex software programs installed and working happily on a single computer.  It's #neato.
 
 When I'm coding, my favorite text editor is [BBEdit][bbedit] (for the more involved coding tasks) and [Jupyter Notebook][jupyter] (for exploratory analysis and fine-tuning plots).
 
