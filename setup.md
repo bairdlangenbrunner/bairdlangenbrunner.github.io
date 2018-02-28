@@ -39,7 +39,7 @@ Another major selling point of Anaconda is that it allows me to maintain working
 My favorite text editor is typically [BBEdit][bbedit] (for .py scripts that I'm using to do heavy calculations) or [Jupyter][jupyter] Notebooks (for exploratory analysis and to fine-tune plots).
 
 My favorite Python packages are:
-* [cartopy](http://scitools.org.uk/cartopy/) for making geo-referenced maps
+* [cartopy][cartopy] for making geo-referenced maps
 * [pandas][pandas] for really simple manipulation of csv files and other common data formats
 * [wrf-python][wrf-python] for manipulating output from the Weather Research and Forecasting (WRF) model
 * [netCDF4][netcdf4] for manipulating NetCDF files
