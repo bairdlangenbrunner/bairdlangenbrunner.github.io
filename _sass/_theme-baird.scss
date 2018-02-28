@@ -4,7 +4,7 @@
 $black: #1e1e1e;
 //$red: #D56900;
 $red: #cc5500;
-$red-dark: #cc5500; //#994000;
+$red-light: #d67632; //#994000;
 $white: #f9f9f9;
 
 // https://www.colorhexa.com/cc5500
@@ -15,8 +15,8 @@ $color-dot-accent: $black !default;
 $color-foreground: $black !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
-$color-text-accent: $red-dark !default;
-$color-code: $red-dark !default;
+$color-text-accent: $red-light !default;
+$color-code: $red-light !default;
 $color-nav-link: $white !default;
 $color-primary-link: $red !default;
 
