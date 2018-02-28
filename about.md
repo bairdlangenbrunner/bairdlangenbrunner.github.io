@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-![photo](./website_photo_bw.jpg){:height="60%"}
+![photo](./website_photo_bw.jpg){:height="50%"}
 
 Hi, I'm Baird.  :earth_asia: :earth_americas: :earth_africa:
 
