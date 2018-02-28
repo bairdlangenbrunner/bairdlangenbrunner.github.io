@@ -24,7 +24,7 @@ When I'm editing in terminal, I tend to use standard UNIX vi, but I find it fair
 
 For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
-To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping all of those finicky dependencies in check, and I can even install a language specific to the climate modeling community.
+To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
 
 ## Language :snake: :snake: :snake:
 
@@ -57,6 +57,7 @@ A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, an
 
 [uses this]:https://usesthis.com/
 [iterm2]:https://www.iterm2.com/
+[conda]:https://conda.io/docs/
 [solarized]:http://ethanschoonover.com/solarized
 [bbedit]:https://www.barebones.com/products/bbedit/
 [homebrew]:https://brew.sh/
