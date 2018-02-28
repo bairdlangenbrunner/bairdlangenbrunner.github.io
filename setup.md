@@ -1,9 +1,7 @@
 ---
-title: " "
-layout: single
+layout: page
+title: ""
 permalink: /setup/
-header:
-  overlay_image: 
 ---
 
 {:center: style="text-align: center"}
