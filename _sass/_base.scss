@@ -62,9 +62,9 @@ a:hover {
 }
 
 /* added by Baird */
-p a {
+p ul ol a {
   color: $color-primary-link;
 }
-p a:hover {
+p ul ol a:hover {
   text-decoration: underline;
 }
