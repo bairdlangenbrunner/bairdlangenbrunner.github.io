@@ -68,3 +68,17 @@ p a {
 p a:hover {
   text-decoration: underline;
 }
+
+ul a {
+  color: $color-primary-link;
+}
+ul a:hover {
+  text-decoration: underline;
+}
+
+ol a {
+  color: $color-primary-link;
+}
+ol a:hover {
+  text-decoration: underline;
+}
