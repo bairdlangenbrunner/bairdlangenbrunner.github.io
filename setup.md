@@ -12,7 +12,7 @@ permalink: /setup/
 
 There's a really great website called [Uses This][uses this] that asks people what they use to "get stuff done."  I love this idea of workflow transparency, so in the vein of sharing cool ideas, I hope this information will be useful to someone.
 
-<hr>
+<div> class="col-4 sm-width-full left border-top-thin" n</div>
 
 __Hardware__:  I use a Macbook Air (2015) with an up-to-date OS and 8 GB of RAM.  It's a great little machine for plotting, but when I have to do any big data wrangling, I use supercomputers that live on the UC Irvine campus or in Wyoming.
 
