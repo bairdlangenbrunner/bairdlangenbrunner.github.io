@@ -4,9 +4,9 @@ title: setup
 permalink: /setup/
 ---
 
-{:center: style="text-align: center"}
+{::comment}{:center: style="text-align: center"}{:/comment}
 ![xkcd_1168](https://imgs.xkcd.com/comics/tar.png)
-{:center}
+{::comment}{:center}{:/comment}
 
 # My work setup
 
