@@ -18,7 +18,7 @@ __Storage__:  For peace of mind, I keep everything important on Dropbox, and I s
 
 ## Software :floppy_disk: :computer: :dvd:
 
-I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS.  I can also use split panes, which was one of the reasons I switched over.
+I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
 
 When I'm editing in terminal, I tend to use standard UNIX vi, but I find it fairly exhausting after a while.  My all-time favorite text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
 
