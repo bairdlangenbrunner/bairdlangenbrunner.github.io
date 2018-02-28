@@ -1,19 +1,11 @@
-// Theme modified by baird
-
-// Import sass partials (used in all themes)
-@import
-        "variables",
-        "base",
-        "components",
-        "utilities"
-;
+// Default black theme
 
 // Color variables
 $black: #1e1e1e;
 //$red: #D56900;
 $red: #cc5500;
 $red-dark: #cc5500; //#994000;
-$white: $site-background-color; //#f9f9f9;
+$white: #f9f9f9;
 
 // https://www.colorhexa.com/cc5500
 
@@ -28,3 +20,10 @@ $color-code: $red-dark !default;
 $color-nav-link: $white !default;
 $color-primary-link: $red !default;
 
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;
