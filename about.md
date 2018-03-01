@@ -4,9 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<div class="img-pad-right-bottom">
-    <img align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px" padding="16px">
-</div>
+<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px">
 
 Hi, I'm Baird.
 
