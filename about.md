@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px">
-
 Hi, I'm Baird.
+
+<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px">
 
 :earth_africa: :earth_americas: :earth_asia:
 
