@@ -19,20 +19,26 @@ $theme-cyan: $cyan !default;
 $theme-white: $white !default;
 $theme-black: $black !default;
 
+
 $color-code: $light-red !default;
 $color-code-background: $dark-white !default;
 $site-background-color: $white;// baird theme#f9f9f9;
 
+
 // Config
 $color-background: $theme-red !default;
 $color-dot-accent: $theme-black !default;
-$color-foreground: $theme-black !default;
+//$color-foreground: $theme-black !default;
 $color-title: $theme-white !default;
 $color-body-text: $theme-black !default;
 //$color-text-accent: $light-red !default;
 $color-text-accent: $theme-red !default;
+
 $color-nav-link: $theme-white !default;
+$color-nav-link-hover: $theme-black !default;
+
 $color-primary-link: $theme-red !default;
+$color-primary-link-hover: $theme-black !default;
 
 // stolen from variables.scss
 // Default border color
