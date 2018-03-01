@@ -10,8 +10,7 @@ I've helped organize a few different Python tutorials aimed at grad students and
 
 # Research
 
-    Under construction...
-    Please check back.
+    More to come...
     
     >__<
 
