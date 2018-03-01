@@ -16,14 +16,23 @@ $light-red: #d56e44; // light red-orange: d67632    #994000;
 // added by Baird for code formatting
 $theme-red: $red !default;
 $theme-cyan: $cyan !default;
+$theme-light-red: $light-red !default;
+$theme-light-cyan: $yellow !default;
+$theme-dark-white: $dark-white !default;
+
+$theme-main $theme-red !default;
 $theme-white: $white !default;
 $theme-black: $black !default;
 
 
-$color-code: $light-red !default;
-$color-code-background: $dark-white !default;
-$site-background-color: $white;// baird theme#f9f9f9;
 
+
+
+// try to change below as little as possible...
+
+$color-code: $theme-light-red !default;
+$color-code-background: $theme-dark-white !default;
+$site-background-color: $theme-white;// baird theme#f9f9f9;
 
 // Config
 $color-background: $theme-red !default;
