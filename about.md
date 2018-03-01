@@ -5,12 +5,11 @@ permalink: /about/
 ---
 
 {::comment}
-<img align="right" src="website_photo_bw.jpg" alt="Baird" height="35%" width="35%">
-![photo](./website_photo_bw.jpg){:height="35%" width="35%"}
+![photo](./website_photo_bw.jpg){:height="250px" width="250px"}
 {:/comment}
 
 {:left: style="text-align: left"}
-![photo](./website_photo_bw.jpg){:height="250px" width="250px"}
+<img align="right" src="https://github.com/bairdlangenbrunner/bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px">
 {:left}
 
 Hi, I'm Baird.
