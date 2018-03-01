@@ -7,7 +7,7 @@ order: 2
 
 # Python for climate scientists
 
-I've helped organize a few different Python tutorials aimed at grad students and researchers interested in learning the language.  Most of these center around NetCDF analysis and plotting maps.  Currently, I'm helping with a four-week tutorial at UCI; check out the Github repository [here][github-ess-python] for more info.
+I've helped organize a few different Python tutorials aimed at grad students and researchers interested in learning the language.  Most of these center around NetCDF analysis and plotting maps.  Currently, I'm helping with a four-week tutorial at UCI; check out the GitHub repository [here][github-ess-python] for more info.
 
 # Research
 
