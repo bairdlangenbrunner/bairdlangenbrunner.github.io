@@ -42,9 +42,12 @@
 .header-border { border-color: $theme-black; }
 .header-title { color: $theme-white; }
 .header-text { color: $theme-black; }
-.header-social { fill: $theme-black; }
+.header-social { fill: $yellow;} //$theme-black; }
 .header-social-inverted { fill: $theme-main; color: $theme-black; }
+
 .header-social-accent { fill: $theme-black; }
+.header-social-accent-inverted { fill: $theme-main; }
+
 .header-link:hover { color: $color-nav-link-hover !important; } // used for navigation links on homepage
 .header-link { color: $color-nav-link !important; } // added by Baird to make first page links white
 .text-accent { color: $theme-main; } // used for date in post list and home link
