@@ -44,7 +44,7 @@ __My favorite Python packages are__:
 
 ## Useful tools for climate data analysis :earth_americas:
 
-A few of my favorites include:
+Outside of Python, a few of my favorites include:
 
 * [ncview][ncview]:  Written by David Pierce at Scripps, this is a really lightweight way to view NetCDF files.
 * [NCO][nco]:  NCO stands for "NetCDF Operators" and has a few really great tools to splice up NetCDF files and do quick calculations on them (even regridding!).  [This website][jisao] out of the University of Washington has taught me everything I need to know.
