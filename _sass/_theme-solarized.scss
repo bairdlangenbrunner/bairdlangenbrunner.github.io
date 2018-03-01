@@ -8,7 +8,7 @@ $white: #fdf6e3;
 $yellow: #b58900;
 $cyan: #2aa198;
 
-$light-red: #cb4b16; // light red-orange: d67632    #994000;
+$light-red: #d56e44; // light red-orange: d67632    #994000;
 
 // https://www.colorhexa.com/cc5500
 
@@ -19,7 +19,7 @@ $color-foreground: $black !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
 //$color-text-accent: $light-red !default;
-$color-text-accent: $red !default;
+$color-text-accent: $light-red !default;
 $color-code: $yellow !default;
 $color-nav-link: $white !default;
 $color-primary-link: $red !default;
