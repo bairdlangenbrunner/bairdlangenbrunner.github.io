@@ -22,6 +22,9 @@ $color-code: $yellow !default;
 $color-nav-link: $white !default;
 $color-primary-link: $red !default;
 
+// added by Baird
+$site-background-color: $white;// baird theme#f9f9f9;
+
 // Import sass partials (used in all themes)
 @import
         "variables",
