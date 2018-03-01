@@ -15,15 +15,11 @@ $light-red: #d56e44; // light red-orange: d67632    #994000;
 // https://www.colorhexa.com/cc5500
 
 // added by Baird for code formatting
-$theme-red: $red !default;
-$theme-cyan: $cyan !default;
-$theme-light-red: $light-red !default;
-$theme-light-cyan: $yellow !default;
-$theme-dark-white: $dark-white !default;
 
-$theme-main: $theme-cyan !default;
-$theme-light-main: $theme-light-cyan !default;
+$theme-main: $cyan !default;
+$theme-light-main: $light-cyan !default;
 $theme-white: $white !default;
+$theme-dark-white: $dark-white !default;
 $theme-black: $black !default;
 
 
