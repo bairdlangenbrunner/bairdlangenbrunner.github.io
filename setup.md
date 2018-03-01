@@ -20,11 +20,11 @@ __Storage__:  For peace of mind, I keep everything important on Dropbox, and I s
 
 __Terminal program:__ I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
 
-__Text editors:__  When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the [BBEdit][bbedit] (I find the free version to be everything I need).  It's simple and, for me, a much more efficient alternative to vim.  I also like [Jupyter Notebook][jupyter] for Python.
+__Text editors:__ When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the [BBEdit][bbedit] (I find the free version to be everything I need).  It's simple and, for me, a much more efficient alternative to vim.  I also like [Jupyter Notebook][jupyter] for Python.
 
-__Color schemes:__  For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
+__Color schemes:__ For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
-__Package mangers:__  To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
+__Package mangers:__ To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
 
 ## Language :snake:
 
