@@ -4,9 +4,15 @@ title: about
 permalink: /about/
 ---
 
+{::comment}
+
 {:center: style="text-align: center"}
 ![photo](./website_photo_bw.jpg){:height="35%" width="35%"}
 {:center}
+
+{:/comment}
+
+<img align="right" src="./website_photo_bw.jpg" alt="Baird" height="35%" width="35%">
 
 Hi, I'm Baird.
 
