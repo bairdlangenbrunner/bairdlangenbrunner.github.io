@@ -47,7 +47,6 @@
 
 .header-social-inverted { background: $theme-black }
 .header-social-inverted:hover { background: $theme-white }
-//.header-social-inverted { fill: $theme-main; color: $theme-black; }
 
 .header-social-accent { fill: $theme-light-main; } // not used now, for a randomly accented dot
 
@@ -183,26 +182,15 @@
 // // social media icon expansion!
 %social-icon-hover {
   border-radius: 100%;
-  ////color: $background // IE8
-  ////fill: $background
-  transform: scale(1.25);
-  //fill: $theme-white;
-  //color: $theme-white;
-  //background: $theme-main;
-  ////transition: background-color .5s, transform .5s ease-out
+  //transform: scale(1.25);
 }
 
 .link-social {
-  ////color: hsl($i * 12, 70, 50) // IE8
-  ////fill: hsl($i * 12, 70, 50)
   text-decoration: none;
   font-weight: bold;
   line-height: 1;
-  //color: $theme-black;
-  //background: $theme-main;
   
   &:hover {
-    //background: hsl($i * 12, 70, 50)
     @extend %social-icon-hover;
     text-decoration: none !important;
     
