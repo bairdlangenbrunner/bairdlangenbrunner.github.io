@@ -23,12 +23,12 @@ I study land-atmosphere interactions as a joint member of the [Pritchard](http:/
 
 Before arriving at UC Irvine, I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi//) led by [David Neelin](http://people.atmos.ucla.edu/neelin/).  I grew up in Tennessee and attended Brown University for college, where I majored in geophysics.
 
-Download my cv [here](./cv_baird.pdf).
+Download my cv <a href='https://bairdlangenbrunner.github.io/cv_baird.pdf' target='_blank'>here</a>.
 
 {::comment}
 At UCI, I am studying the response of tropical forests (the Amazon and Indonesian archipelago) to different types of land surface and environmental change. Human activities like deforestation and carbon dioxide emissions alter energy and moisture fluxes at the land surface, which in turn can impact regional atmospheric dynamics, and I’m using WRF and CESM to better understand these interactions. More broadly, my current and previous research has been motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of regional climate change and its societal impacts.
 
-Download my cv <a href="https://github.com/bairdlangenbrunner/bairdlangenbrunner.github.io/blob/master/cv_baird.pdf" target="_blank">here</a>.
+Download my cv [here](./cv_baird.pdf).
 
 {:/comment}
 
