@@ -10,7 +10,7 @@ permalink: /about/
 {:/comment}
 
 {:left: style="text-align: left"}
-![photo](./website_photo_bw.jpg =250x)
+<img align="right" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" height="250px" width="250px">
 {:left}
 
 Hi, I'm Baird.
