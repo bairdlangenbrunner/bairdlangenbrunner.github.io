@@ -47,9 +47,9 @@ __My favorite Python packages are__:
 Outside of Python, a few of my favorites include:
 
 * [ncview][ncview]:  Written by David Pierce at Scripps, this is a really lightweight way to view NetCDF files.
-* [NCO][nco]:  NCO stands for "NetCDF Operators" and has a few really great tools to splice up NetCDF files and do quick calculations on them (even regridding!).  [This website][jisao] out of the University of Washington has taught me everything I need to know.
-* [CDO][cdo]:  CDO stands for Climate Data Operators, and this set of packages serves as a really great complement to NCO.
-* [NCL][ncl]:  NCL is short for the NCAR Command Language, and this was developed by and for climate and weather scientists.  I find it a bit clunky as a language (it's unfortunately very similar to Fortran).  Still, it has a great support staff and a useful mailing list, and it's good at regridding and interpolating data if you're willing to summit the learning curve.
+* [NCO][nco]:  Short for NetCDF Operators, NCO has a few really great tools to splice up NetCDF files and do quick calculations on them (even regridding!).  [This website][jisao] out of the University of Washington has taught me almost everything I need to know.
+* [CDO][cdo]:  Short or Climate Data Operators, CDO serves as a really great complement to NCO.
+* [NCL][ncl]:  Short for the NCAR Command Language, NCL was developed by and for climate and weather scientists.  I find it a bit clunky as a language, but it has a great support staff and a useful mailing list, and it's good at regridding and interpolating data if you're willing to summit the learning curve.
 
 A final and useful fact:  NCO, CDO, and NCL can all be installed using conda, and homebrew can install ncview.  The days of annoying software dependencies are mostly over:  w:eyes:t!
 
