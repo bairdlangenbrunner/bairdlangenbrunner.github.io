@@ -39,13 +39,13 @@
 
 
 /* Theme color utilities */
-.header-background { background-color: $color-background; }
-.header-border { border-color: $color-foreground; }
-.header-title { color: $color-title; }
-.header-text { color: $color-foreground; }
-.header-social { fill: $color-foreground; }
-.header-social-accent { fill: $color-dot-accent; }
-.header-link:hover { color: $color-nav-link !important; } // used for navigation links on homepage
+.header-background { background-color: $them-red; }
+.header-border { border-color: $theme-black; }
+.header-title { color: $theme-white; }
+.header-text { color: $theme-black; }
+.header-social { fill: $theme-black; }
+.header-social-accent { fill: $theme-black; }
+.header-link:hover { color: $theme-black !important; } // used for navigation links on homepage
 .header-link { color: $color-nav-link !important; } // added by Baird to make first page links white
 .text-accent { color: $color-text-accent; } // used for date in post list and home link
 
