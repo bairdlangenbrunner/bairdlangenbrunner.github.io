@@ -178,12 +178,13 @@
 
 // https://codepen.io/ruandre/pen/howFi
 // // social media icon stuff
-%social-icon-hover
-  border-radius: 100%
+%social-icon-hover {
+  border-radius: 100%;
   //color: $background // IE8
   //fill: $background
-  transform: scale(1.25)
+  transform: scale(1.25);
   //transition: background-color .5s, transform .5s ease-out
+}
 
 .link-social {
   //color: hsl($i * 12, 70, 50) // IE8
