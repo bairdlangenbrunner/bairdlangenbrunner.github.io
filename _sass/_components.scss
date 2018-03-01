@@ -6,7 +6,7 @@ pre {
     width: (9 / 12 * 100%); // matches col-9
     overflow-x: auto;
     border-left: $spacer-1 solid $color-border; // adds vertical chunk
-    //padding-left: 16px; // adds small margin to left
+    padding-left: $body-font-size; //16px; // adds small margin to left
     //padding-left: 5px;
     background-color: $color-code-background;
 }
