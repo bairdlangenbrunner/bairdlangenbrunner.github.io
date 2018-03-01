@@ -7,7 +7,8 @@ $white: #fdf6e3;
 $dark-white: #eee8d5;
 
 $yellow: #b58900;
-$cyan: #2aa198;
+$cyan: #008b8b; //#2aa198;
+$light-cyan: #2ea0a0;
 
 $light-red: #d56e44; // light red-orange: d67632    #994000;
 
@@ -21,6 +22,7 @@ $theme-light-cyan: $yellow !default;
 $theme-dark-white: $dark-white !default;
 
 $theme-main: $theme-cyan !default;
+$theme-light-main: $theme-light-cyan !default;
 $theme-white: $white !default;
 $theme-black: $black !default;
 
@@ -31,26 +33,26 @@ $theme-black: $black !default;
 // try to change below as little as possible...
 $site-background-color: $theme-white;// baird theme#f9f9f9;
 
-$color-code: $theme-light-red !default;
+$color-code: $theme-light-main !default;
 $color-code-background: $theme-dark-white !default;
 
 // Config
-$color-background: $theme-red !default;
+$color-background: $theme-main !default;
 $color-dot-accent: $theme-black !default;
 $color-title: $theme-white !default;
 $color-body-text: $theme-black !default;
 //$color-text-accent: $theme-light-red !default;
-$color-text-accent: $theme-red !default;
+$color-text-accent: $theme-main !default;
 
 $color-nav-link: $theme-white !default;
 $color-nav-link-hover: $theme-black !default;
 
-$color-primary-link: $theme-red !default;
+$color-primary-link: $theme-main !default;
 $color-primary-link-hover: $theme-black !default;
 
 // stolen from variables.scss
 // Default border color
-$color-border: $theme-red !default; //#ddd !default;
+$color-border: $theme-main !default; //#ddd !default;
 
 // Import sass partials (used in all themes)
 @import
