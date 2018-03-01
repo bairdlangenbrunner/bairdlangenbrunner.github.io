@@ -180,6 +180,8 @@
   //color: $background // IE8
   //fill: $background
   transform: scale(1.25);
+  color: $theme-white;
+  fill: $color-background;
   //transition: background-color .5s, transform .5s ease-out
 }
 
