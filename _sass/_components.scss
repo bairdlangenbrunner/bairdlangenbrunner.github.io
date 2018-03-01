@@ -52,11 +52,14 @@ code {
   }
 
   blockquote {
-    line-height: 1.375;
-    padding-left: 20px;
-    margin: 40px 0 40px -16px;
+    //line-height: 1.375;
+    //padding-left: 20px;
+    //margin: 40px 0 40px -16px;
+    //border-left: $spacer-1 solid $color-border;
+    //font-style: italic; baird commented out
     border-left: $spacer-1 solid $color-border;
-    //font-style: italic;
+    margin: $spacer-3 0;
+    padding-left: 16px;
 
     p {
       font-size: $body-font-size; //24px; baird
@@ -68,7 +71,7 @@ code {
       max-width: (11 / 10 * 100%);
 
       p {
-        font-size: 32px;
+        font-size: $body-font-size; //32px; baird
       }
 
     }
