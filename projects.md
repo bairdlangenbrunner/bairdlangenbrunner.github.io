@@ -11,8 +11,6 @@ I've helped organize a few different Python tutorials aimed at grad students and
 # Research
 
     More to come...
-    
-    >__<
 
 [github-ess-python]: https://github.com/raspstephan/ESS-Python-Tutorial
 
