@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-{:right: style="text-align: right"}
-![photo](./website_photo_bw.jpg){:height="40%" width="40%"}
-{:right}
+{:center: style="text-align: center"}
+![photo](./website_photo_bw.jpg){:height="35%" width="35%"}
+{:center}
 
 Hi, I'm Baird.
 
