@@ -10,7 +10,7 @@ permalink: /about/
 {:/comment}
 
 {:left: style="text-align: left"}
-![photo](./website_photo_bw.jpg){:height="100px" width="100px"}
+![photo](./website_photo_bw.jpg){:height="250px" width="250px"}
 {:left}
 
 Hi, I'm Baird.
