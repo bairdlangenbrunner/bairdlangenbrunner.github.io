@@ -17,8 +17,8 @@ I've helped organize a few different Python tutorials aimed at grad students and
 
 
 > Please check back soon...
-I'll add more shortly.
->__<
+> I'll add more shortly.
+> >__<
 
 
 [github-ess-python]: https://github.com/raspstephan/ESS-Python-Tutorial
