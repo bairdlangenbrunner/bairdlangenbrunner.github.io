@@ -20,7 +20,7 @@ __Storage__:  For peace of mind, I keep everything important on Dropbox, and I s
 
 __Terminal program:__ I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
 
-__Text editor:__  When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
+__Text editors:__  When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the [BBEdit][bbedit] (I find the free version to be everything I need).  It's simple and, for me, a much more efficient alternative to vim.  I also like [Jupyter Notebook][jupyter] for Python.
 
 __Color schemes:__  For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
@@ -30,11 +30,9 @@ __Package mangers:__  To keep things clean and working on my Mac, I like to use 
 
 In terms of data analysis, I'm a die-hard Python fan.  It was the first coding language I learned (circa 2008), and I'm a huge proponent of open-source software.
 
-My favorite way to keep the Python ecosystem on my computer healthy is [Anaconda][anaconda] (available for Mac, LINUX, and Windows).  I think it's the best way to install, use, and maintain a Python distribution.  The best part of Anaconda is that it can be installed in a user's home directory, and it doesn't require root permissions.  For me, this means I can create my own clean Python installation on _any_ computer I can log into, and I don't have to worry about having administrator privileges or dealing with dependency issues.
+__Python distributions:__  My favorite way to keep the Python ecosystem on my computer healthy is [Anaconda][anaconda] (available for Mac, LINUX, and Windows).  I think it's the best way to install, use, and maintain a Python distribution.  The best part of Anaconda is that it can be installed in a user's home directory, and it doesn't require root permissions.  For me, this means I can create my own clean Python installation on _any_ computer I can log into, and I don't have to worry about having administrator privileges or dealing with dependency issues.
 
 Another major selling point of Anaconda is that it allows me to maintain working environments of different Python versions and other goodies like NCO and CDO (see below).  In my experience, it's now easier than ever to have multiple, complex software programs installed and working happily on a single computer.  It's #neato.
-
-When I'm coding, my favorite text editor is [BBEdit][bbedit] (for the more involved coding tasks) and [Jupyter Notebook][jupyter] (for exploratory analysis and fine-tuning plots).
 
 __My favorite Python packages are__:
 
