@@ -118,7 +118,7 @@ code {
     }
 
     tr {
-      background-color: #fff;
+      background-color: $site-background-color; //#fff;
       border-top: 1px solid $color-body-text;
     }
 
