@@ -56,10 +56,10 @@ code {
     padding-left: 20px;
     margin: 40px 0 40px -16px;
     border-left: $spacer-1 solid $color-border;
-    font-style: italic;
+    //font-style: italic;
 
     p {
-      font-size: 24px;
+      font-size: $body-font-size; //24px; baird
     }
 
     @media (min-width: $breakpoint-lg) {
