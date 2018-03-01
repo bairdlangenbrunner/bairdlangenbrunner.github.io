@@ -8,10 +8,9 @@ permalink: /about/
 <img align="right" src="website_photo_bw.jpg" alt="Baird" height="35%" width="35%">
 {:/comment}
 
-{:center: style="text-align: right"}
+{:right: style="text-align: right"}
 ![photo](./website_photo_bw.jpg){:height="35%" width="35%"}
-{:center}
-
+{:right}
 
 Hi, I'm Baird.
 
