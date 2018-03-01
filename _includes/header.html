@@ -2,6 +2,8 @@
 
 <!-- BAIRD NOTE:  this is the navigation bar -->
 
+<!-- {% for my_page in site.pages %} -->
+
   <div class="left sm-width-full py-1 mt-1 mt-lg-0">
     <a class="align-middle link-primary text-accent" href="{{ site.baseurl }}/">
       {{ site.title }}
@@ -11,7 +13,6 @@
     <ul class="list-reset mt-lg-1 mb-2 mb-lg-1">
       {% assign sorted_pages = site.pages | sort:"order" %}
       {% for my_page in sorted_pages %}
-      <!--{% for my_page in site.pages %}-->
         {% if my_page.title %}
         <li class="inline-block">
           <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
