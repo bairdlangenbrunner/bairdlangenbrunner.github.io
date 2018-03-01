@@ -63,5 +63,8 @@ a:hover {
 
 /*define img with padding classes*/
 .img-pad-right-bottom {
-    padding: 0px $body-font-size $body-font-size 0px;
+    padding-top: 0px;
+    padding-right: $body-font-size;
+    padding-bottom: $body-font-size;
+    padding-left: 0px;
 }
