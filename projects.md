@@ -2,6 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
+order: 2
 ---
 
 # Python for climate scientists

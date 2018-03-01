@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+order: 1
 ---
 
 <img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="250px">  Hi, I'm Baird.

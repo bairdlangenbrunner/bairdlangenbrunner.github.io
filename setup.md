@@ -2,6 +2,7 @@
 layout: page
 title: setup
 permalink: /setup/
+order: 3
 ---
 
 {::comment}{:center: style="text-align: center"}{:/comment}

@@ -2,6 +2,7 @@
 layout: page
 title: miscellaneous
 permalink: /misc/
+order: 4
 ---
 
 Like any researcher, I love procrastinating.  Here are my favorite ways to do that.
