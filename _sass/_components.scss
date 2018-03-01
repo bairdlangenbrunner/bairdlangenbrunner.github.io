@@ -5,12 +5,10 @@ pre {
     margin: $spacer-3 0;
     width: (9 / 12 * 100%); // matches col-9
     overflow-x: auto;
-    //border-left: $spacer-1 solid $color-border; // adds vertical chunk
+    border-left: $spacer-1 solid $color-border; // adds vertical chunk
     //padding-left: 16px; // adds small margin to left
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: $color-code-background;
+    //padding-left: 5px;
+    //background-color: $color-code-background;
 }
 
 code {

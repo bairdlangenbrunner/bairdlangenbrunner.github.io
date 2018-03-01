@@ -26,8 +26,12 @@ $color-primary-link: $red !default;
 // added by Baird for code formatting
 $color-code: $light-red !default;
 $color-code-background: $black !default;
-$color-code-border: $red !default;
+//$color-border: $red !default;
 $site-background-color: $white;// baird theme#f9f9f9;
+
+// stoeln from variables.scss
+// Default border color
+$color-border: $red !default; //#ddd !default;
 
 // Import sass partials (used in all themes)
 @import
