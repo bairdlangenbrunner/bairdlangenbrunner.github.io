@@ -7,6 +7,9 @@ pre {
     overflow-x: auto;
     //border-left: $spacer-1 solid $color-border; // adds vertical chunk
     //padding-left: 16px; // adds small margin to left
+    padding-left: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     background-color: $color-code-background;
 }
 
