@@ -4,11 +4,7 @@ title: misc
 permalink: /misc/
 ---
 
-# Miscellanea
-
-Like any researcher, I love procrastinating.
-
-Here are my favorite ways to do that.
+Like any researcher, I love procrastinating.  Here are my favorite ways to do that.
 
     More to come...
 
