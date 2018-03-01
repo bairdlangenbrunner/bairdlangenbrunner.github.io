@@ -18,7 +18,7 @@ __Storage__:  For peace of mind, I keep everything important on Dropbox, and I s
 
 ## Software :floppy_disk:
 
-__Terminal program:__ I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
+__Terminal program:__ I'm on a terminal shell a lot, and I'm not a huge fan of the Mac Terminal, so I use [iTerm2][iterm2].  I like it because it allows for a lot more customization than Mac's version (the major selling point for me:  split panes!).
 
 __Text editors:__ When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the [BBEdit][bbedit] (I find the free version to be everything I need).  It's simple and, for me, a much more efficient alternative to vim.  I also like [Jupyter Notebook][jupyter] for Python.
 
