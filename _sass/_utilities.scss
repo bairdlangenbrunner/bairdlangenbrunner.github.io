@@ -42,11 +42,11 @@
 .header-border { border-color: $theme-black; }
 .header-title { color: $theme-white; }
 .header-text { color: $theme-black; }
-.header-social { fill: $theme-black;} //$theme-black; } // color of dot 
+.header-social { fill: $theme-black; } //$theme-black; } // color of dot 
+.header-social:hover { fill: $theme-white; }
 //.header-social-inverted { fill: $theme-main; color: $theme-black; }
 
 .header-social-accent { fill: $theme-light-main; } // not used now, for a randomly accented dot
-//.header-social-accent-inverted { fill: $theme-main; }
 
 .header-link:hover { color: $color-nav-link-hover !important; } // used for navigation links on homepage
 .header-link { color: $color-nav-link !important; } // added by Baird to make first page links white
@@ -187,7 +187,7 @@
   ////color: $background // IE8
   ////fill: $background
   transform: scale(1.25);
-  fill: $theme-white;
+  //fill: $theme-white;
   //color: $theme-white;
   //background: $theme-main;
   ////transition: background-color .5s, transform .5s ease-out
