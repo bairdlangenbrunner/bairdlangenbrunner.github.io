@@ -39,15 +39,15 @@
 
 
 /* Theme color utilities */
-.header-background { background-color: $theme-red; }
+.header-background { background-color: $theme-main; }
 .header-border { border-color: $theme-black; }
 .header-title { color: $theme-white; }
 .header-text { color: $theme-black; }
 .header-social { fill: $theme-black; }
 .header-social-accent { fill: $theme-black; }
-.header-link:hover { color: $theme-black !important; } // used for navigation links on homepage
-.header-link { color: $theme-white !important; } // added by Baird to make first page links white
-.text-accent { color: $theme-red; } // used for date in post list and home link
+.header-link:hover { color: $color-nav-link-hover !important; } // used for navigation links on homepage
+.header-link { color: $color-nav-link !important; } // added by Baird to make first page links white
+.text-accent { color: $theme-main; } // used for date in post list and home link
 
 /* Layout utilities */
 .container { max-width: $container-width; }
@@ -168,7 +168,7 @@
   text-decoration: none;
 
   &:hover {
-    color: $color-primary-link;
+    color: $color-primary-link-hover;
     text-decoration: none;
   }
 }
