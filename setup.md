@@ -24,7 +24,7 @@ __Text editors:__ When I'm editing within terminal, I like vim, but my all-time 
 
 __Color schemes:__ For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
-__Package mangers:__ To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
+__Package managers:__ To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
 
 ## Language :snake:
 
