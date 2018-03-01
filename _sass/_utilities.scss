@@ -173,6 +173,10 @@
   }
 }
 
+
+
+
+
 // https://codepen.io/ruandre/pen/howFi
 // // social media icon expansion!
 %social-icon-hover {
@@ -180,6 +184,7 @@
   ////color: $background // IE8
   ////fill: $background
   transform: scale(1.25);
+  fill: $theme-white;
   //color: $theme-white;
   //background: $theme-main;
   ////transition: background-color .5s, transform .5s ease-out
