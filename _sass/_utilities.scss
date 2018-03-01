@@ -130,6 +130,9 @@
 .mb-4 { margin-bottom: $spacer-4; }
 .ml-4 { margin-left: $spacer-4; }
 
+// added by Baird for page.html layout
+.mb-5 { margin-bottom: $spacer-5; }
+
 // Responsive margin
 @media (min-width: 52em) {
   .mx-lg-auto { margin-left: auto; margin-right: auto; }
