@@ -10,8 +10,8 @@ I've helped organize a few different Python tutorials aimed at grad students and
 
 # Research
 
-    Please check back soon...
-    I'll add more shortly.
+    Under construction...
+    Please check back.
     
     >__<
 
