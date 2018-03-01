@@ -43,7 +43,7 @@
 .header-title { color: $theme-white; }
 .header-text { color: $theme-black; }
 .header-social { fill: $theme-black; }
-.header-social-inverted { fill: $theme-black; }//{ fill: $theme-main; color: $theme-black; }
+.header-social-inverted { fill: $theme-main; color: $theme-black; }
 .header-social-accent { fill: $theme-black; }
 .header-link:hover { color: $color-nav-link-hover !important; } // used for navigation links on homepage
 .header-link { color: $color-nav-link !important; } // added by Baird to make first page links white
