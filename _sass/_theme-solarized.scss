@@ -4,6 +4,7 @@
 $black: #002b36;
 $red: #cb4b16;
 $white: #fdf6e3;
+$dark-white: #eee8d5;
 
 $yellow: #b58900;
 $cyan: #2aa198;
@@ -25,8 +26,7 @@ $color-primary-link: $red !default;
 
 // added by Baird for code formatting
 $color-code: $light-red !default;
-$color-code-background: $black !default;
-//$color-border: $red !default;
+$color-code-background: $dark-white !default;
 $site-background-color: $white;// baird theme#f9f9f9;
 
 // stoeln from variables.scss
