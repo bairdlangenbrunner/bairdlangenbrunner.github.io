@@ -12,7 +12,7 @@ permalink: /about/
 
 {:/comment}
 
-<img align="right" src="./website_photo_bw.jpg" alt="Baird" height="35%" width="35%">
+<img align="right" src="website_photo_bw.jpg" alt="Baird" height="35%" width="35%">
 
 Hi, I'm Baird.
 
