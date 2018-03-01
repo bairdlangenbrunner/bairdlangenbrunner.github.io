@@ -1,0 +1,28 @@
+// Default black theme
+
+// Color variables
+$black: #002b36;
+$red: #cb4b16;
+$red-light: #cb4b16; // light red-orange: d67632    #994000;
+$white: #fdf6e3;
+
+// https://www.colorhexa.com/cc5500
+
+// Config
+$color-background: $red !default;
+$color-dot-accent: $black !default;
+$color-foreground: $black !default;
+$color-title: $white !default;
+$color-body-text: $black !default;
+$color-text-accent: $red-light !default;
+$color-code: $red-light !default;
+$color-nav-link: $white !default;
+$color-primary-link: $red !default;
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

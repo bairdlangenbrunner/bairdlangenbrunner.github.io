@@ -25,7 +25,7 @@ github_username:  bairdlangenbrunner
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: baird
+theme_color: solarized
 plugins:
   - jekyll-feed
   - jemoji
