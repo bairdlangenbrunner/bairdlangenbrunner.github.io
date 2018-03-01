@@ -3,11 +3,12 @@
 // Color variables
 $black: #002b36;
 $red: #cb4b16;
-$red-light: #cb4b16; // light red-orange: d67632    #994000;
 $white: #fdf6e3;
 
 $yellow: #b58900;
 $cyan: #2aa198;
+
+$light-red: #cb4b16; // light red-orange: d67632    #994000;
 
 // https://www.colorhexa.com/cc5500
 
@@ -17,12 +18,15 @@ $color-dot-accent: $black !default;
 $color-foreground: $black !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
-$color-text-accent: $red-light !default;
+//$color-text-accent: $light-red !default;
+$color-text-accent: $red !default;
 $color-code: $yellow !default;
 $color-nav-link: $white !default;
 $color-primary-link: $red !default;
 
 // added by Baird
+$color-code-background: $black !default;
+$color-code-border: $red !default;
 $site-background-color: $white;// baird theme#f9f9f9;
 
 // Import sass partials (used in all themes)
