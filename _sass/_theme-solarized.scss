@@ -13,27 +13,30 @@ $light-red: #d56e44; // light red-orange: d67632    #994000;
 
 // https://www.colorhexa.com/cc5500
 
-// Config
-$color-background: $red !default;
-$color-dot-accent: $black !default;
-$color-foreground: $black !default;
-$color-title: $white !default;
-$color-body-text: $black !default;
-//$color-text-accent: $light-red !default;
-$color-text-accent: $red !default;
-$color-nav-link: $white !default;
-$color-primary-link: $red !default;
-
 // added by Baird for code formatting
+$theme-red: $red !default;
+$theme-cyan: $cyan !default;
 $theme-white: $white !default;
 $theme-black: $black !default;
+
 $color-code: $light-red !default;
 $color-code-background: $dark-white !default;
 $site-background-color: $white;// baird theme#f9f9f9;
 
-// stoeln from variables.scss
+// Config
+$color-background: $theme-red !default;
+$color-dot-accent: $theme-black !default;
+$color-foreground: $theme-black !default;
+$color-title: $theme-white !default;
+$color-body-text: $theme-black !default;
+//$color-text-accent: $light-red !default;
+$color-text-accent: $theme-red !default;
+$color-nav-link: $theme-white !default;
+$color-primary-link: $theme-red !default;
+
+// stolen from variables.scss
 // Default border color
-$color-border: $red !default; //#ddd !default;
+$color-border: $theme-red !default; //#ddd !default;
 
 // Import sass partials (used in all themes)
 @import
