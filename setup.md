@@ -16,17 +16,17 @@ __Hardware__:  As of writing this (February 2018), I use a 2015 Macbook Air with
 
 __Storage__:  For peace of mind, I keep everything important on Dropbox, and I shell out money for the 1 TB per year option.  It's completely worth it.  My laptop was stolen in my 4th year of grad school, but thanks to cloud storage, I didn't lose a thing (well, except the computer itself).
 
-## Software :floppy_disk: :computer: :dvd:
+## Software :floppy_disk:
 
-I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
+__Terminal program:__ I'm on a terminal shell a lot, and my favorite text editor is [iTerm2][iterm2].  I like it because it allows for a lot more customization than the standard Terminal in Mac OS (the major selling point for me:  split panes!).
 
-When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
+__Text editor:__  When I'm editing within terminal, I like vim, but my all-time favorite application-based text editor is the __free__ version of [BBEdit][bbedit].  It's simple to use and you can add language-specific syntax highlighting.
 
-For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
+__Color schemes:__  For color schemes, I like [Solarized][solarized], which was designed to be slightly easier on your eyes than the standard, pre-packaged options:  darks are less dark, whites are less white, but the contrast is still good.  I use the dark color scheme in iTerm2 and the light color scheme in BBEdit.
 
-To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
+__Package mangers:__  To keep things clean and working on my Mac, I like to use the [Homebrew][homebrew] package manager.  It's great for keeping a lot of finicky dependencies in check, and I use it in conjunction with [conda][conda] (from the [Anaconda][anaconda] Python distribution).
 
-## Language :snake: :snake: :snake:
+## Language :snake:
 
 In terms of data analysis, I'm a die-hard Python fan.  It was the first coding language I learned (circa 2008), and I'm a huge proponent of open-source software.
 
