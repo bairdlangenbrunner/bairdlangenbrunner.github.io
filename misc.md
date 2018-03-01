@@ -1,6 +1,6 @@
 ---
 layout: page
-title: miscellaneous
+title: misc
 permalink: /misc/
 order: 4
 ---
