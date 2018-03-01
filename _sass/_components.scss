@@ -134,3 +134,11 @@ code {
   }
 
 }
+
+/*baird define img with padding classes*/
+.img-pad-right-bottom {
+    padding-top: 0px;
+    padding-right: 100px;
+    padding-bottom: $body-font-size;
+    padding-left: 0px;
+}
