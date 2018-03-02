@@ -74,6 +74,7 @@
   .sm-width-full { width: 100% !important; }
 }
 
+// added by baird to make footer full screen width ALWAYS (change in footer.html)
 @media (min-width: 0em) {
   .always-width-full { width: 100% !important; }
 }
