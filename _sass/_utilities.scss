@@ -138,7 +138,7 @@
 .mb-minus-3 { margin-bottom: -$spacer-3; } // added by Baird
 
 // Responsive margin
-@media (min-width: 52em) {
+@media (min-width: $breakpoint-lg) {
   .mx-lg-auto { margin-left: auto; margin-right: auto; }
 
   .mt-lg-0 { margin-top: 0; }
