@@ -74,6 +74,10 @@
   .sm-width-full { width: 100% !important; }
 }
 
+@media {
+  .always-width-full { width: 100% !important; }
+}
+
 .block        { display: block !important; }
 .inline-block { display: inline-block !important; }
 
