@@ -11,9 +11,9 @@ order: 1
 
 I'm a climate scientist and postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/).
 
-I study land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I'm interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation.
+I study land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I'm interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
 
-Before arriving at UC Irvine, I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi//) led by [David Neelin](http://people.atmos.ucla.edu/neelin/).  I grew up in Tennessee and attended Brown University for college, where I majored in geophysics.
+I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi/).
 
 Download my cv <a href="https://bairdlangenbrunner.github.io/cv_baird.pdf" target="_blank">here</a>.
 
