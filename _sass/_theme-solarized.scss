@@ -27,51 +27,53 @@ $theme-light-black: $light-black !default;
 ///// WHITE BACKGROUND
 
 // try to change below as little as possible...
-// $site-background-color: $theme-white;
-
-// $color-code: $theme-light-main !default;
-// $color-code-background: $theme-dark-white !default;
-// 
-// // Config
-// $color-background: $theme-main !default;
-// $color-dot-accent: $theme-black !default;
-// $color-title: $theme-white !default;
-// $color-body-text: $theme-black !default;
-// $color-text-accent: $theme-main !default;
-// 
-// $color-nav-link: $theme-white !default;
-// $color-nav-link-hover: $theme-black !default;
-// 
-// $color-primary-link: $theme-main !default;
-// $color-primary-link-hover: $theme-black !default;
-// 
-// // stolen from variables.scss
-// // Default border color
-// $color-border: $theme-main !default;
-
-///// BLACK BACKGROUND
-
-$site-background-color: $theme-black;
+$site-background-color: $theme-white;
 
 $color-code: $theme-light-main !default;
-$color-code-background: $theme-light-black !default;
+$color-code-background: $theme-dark-white !default;
 
 // Config
 $color-background: $theme-main !default;
-$color-dot-accent: $theme-white !default;
-$color-title: $theme-black !default;
-$color-body-text: $theme-white !default;
+$color-dot-accent: $theme-black !default;
+$color-home-header: $theme-white !default;
+$color-page-header: $theme-dark-white !default;
+$color-body-text: $theme-black !default;
 $color-text-accent: $theme-main !default;
 
-$color-nav-link: $theme-black !default;
-$color-nav-link-hover: $theme-light-black !default;
+$color-nav-link: $theme-white !default;
+$color-nav-link-hover: $theme-black !default;
 
 $color-primary-link: $theme-main !default;
-$color-primary-link-hover: $theme-light-main !default;
+$color-primary-link-hover: $theme-black !default;
 
 // stolen from variables.scss
 // Default border color
 $color-border: $theme-main !default;
+
+///// BLACK BACKGROUND
+
+// $site-background-color: $theme-black;
+// 
+// $color-code: $theme-light-main !default;
+// $color-code-background: $theme-light-black !default;
+// 
+// // Config
+// $color-background: $theme-main !default;
+// $color-dot-accent: $theme-white !default;
+// $color-home-title: $theme-black !default;
+// $color-page-title: $theme-light-black !default;
+// $color-body-text: $theme-white !default;
+// $color-text-accent: $theme-main !default;
+// 
+// $color-nav-link: $theme-black !default;
+// $color-nav-link-hover: $theme-light-black !default;
+// 
+// $color-primary-link: $theme-main !default;
+// $color-primary-link-hover: $theme-light-main !default;
+// 
+// // stolen from variables.scss
+// // Default border color
+// $color-border: $theme-main !default;
 
 // Import sass partials (used in all themes)
 @import

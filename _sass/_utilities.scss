@@ -1,5 +1,5 @@
 /* Type utilities */
-.h0 {
+.h0-home {
   font-size: $h0-mobile;
   line-height: 0.85em;
   //margin-top: 0.85em;
@@ -40,7 +40,8 @@
 /* Theme color utilities */
 .header-background { background-color: $theme-main; }
 .header-border { border-color: $theme-black; }
-.header-title { color: $theme-white; }
+.header-title-home { color: $color-home-header; }
+.header-title-page { color: $color-page-header; }
 .header-text { color: $theme-black; }
 .header-social { fill: $theme-black; } //$theme-black; } // color of dot 
 .header-social:hover { fill: $theme-white; }
