@@ -10,8 +10,11 @@ order: 2
 {:right: style="text-align: right"} {:right}
 ![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg )
 -->
+
 <img align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map" width="75%">
+
 <br>
+
 _see the [python code](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map_
 
 
