@@ -14,7 +14,7 @@ order: 2
 <img align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map" width="85%">
 <br clear="left">
 
-_see the [python code](./homolosine_map.ipynb) used to create this map_
+<!--_see the [python code](./homolosine_map.ipynb) used to create this map_-->
 
 
 # Python for climate scientists
