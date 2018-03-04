@@ -9,7 +9,7 @@ order: 3
 ![xkcd_1168](https://imgs.xkcd.com/comics/tar.png)
 {::comment}{:center}{:/comment}
 
-xkcd comic ["tar"](https://xkcd.com/1168/)
+xkcd comic [tar](https://xkcd.com/1168/)
 
 
 # My work setup

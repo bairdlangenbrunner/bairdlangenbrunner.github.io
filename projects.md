@@ -7,12 +7,12 @@ order: 2
 
 <!--
 <img align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map" width="75%">
+{:right: style="text-align: right"} {:right}
 -->
 ![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg)
 
-{:right: style="text-align: right"}
-see the [python code](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map
-{:right}
+_see the [python code](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map_
+
 
 # Python for climate scientists
 
