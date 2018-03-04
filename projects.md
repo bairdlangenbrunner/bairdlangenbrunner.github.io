@@ -5,7 +5,10 @@ permalink: /projects/
 order: 2
 ---
 
+<!--
 <img align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map" width="75%">
+-->
+![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg)
 
 # Python for climate scientists
 
