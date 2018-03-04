@@ -5,12 +5,16 @@ permalink: /setup/
 order: 3
 ---
 
-{::comment}{:center: style="text-align: center"}{:/comment}
+{::comment}
+{:center: style="text-align: center"}
 ![xkcd_1168](https://imgs.xkcd.com/comics/tar.png)
-{::comment}{:center}{:/comment}
+{::comment}{:center}
+{:/comment}
+
+<img align="left" src="https://imgs.xkcd.com/comics/tar.png" alt="map" width="100%">
+<br clear="left">
 
 _xkcd comic [tar](https://xkcd.com/1168/)_
-
 
 # My work setup
 
