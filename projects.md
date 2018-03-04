@@ -10,6 +10,8 @@ order: 2
 -->
 ![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg)
 
+See the [notebook file](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map.
+
 # Python for climate scientists
 
 I've helped organize a few different Python tutorials aimed at grad students and researchers interested in learning the language.  Most of these center around NetCDF analysis and plotting maps.  Currently, I'm helping with a four-week tutorial at UCI; check out the GitHub repository [here][github-ess-python] for more info.
