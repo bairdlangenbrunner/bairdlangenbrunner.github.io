@@ -9,6 +9,10 @@ order: 3
 ![xkcd_1168](https://imgs.xkcd.com/comics/tar.png)
 {::comment}{:center}{:/comment}
 
+{:right: style="text-align: right"}
+xkcd comic ["tar"](https://xkcd.com/1168/)
+{:right}
+
 # My work setup
 
 There's a really great website called [Uses This][uses this] that asks people what they use to "get stuff done."  I love this idea of workflow transparency, so in the vein of sharing cool ideas, I hope this information will be useful to someone.
