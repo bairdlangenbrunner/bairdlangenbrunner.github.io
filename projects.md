@@ -10,7 +10,7 @@ order: 2
 -->
 ![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg)
 
-See the [notebook file](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map.
+See the [python code](https://bairdlangenbrunner.github.io/_jupyter/maps_for_pages.ipynb) used to create this map.
 
 # Python for climate scientists
 
