@@ -8,10 +8,8 @@ order: 3
 {::comment}{:center: style="text-align: center"}{:/comment}
 ![xkcd_1168](https://imgs.xkcd.com/comics/tar.png)
 {::comment}{:center}{:/comment}
-
-{:right: style="text-align: right"}
 xkcd comic ["tar"](https://xkcd.com/1168/)
-{:right}
+
 
 # My work setup
 
