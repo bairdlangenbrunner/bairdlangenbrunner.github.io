@@ -30,10 +30,11 @@ theme_color: solarized
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-scholar
 
-scholar:
-  style: mla
+# BibTex Citation plugin
+citation:
+    citation_style: apa
+    citation_locale: en
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
