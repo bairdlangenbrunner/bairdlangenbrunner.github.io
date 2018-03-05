@@ -7,15 +7,15 @@ order: 4
 
 ## Work in progress
 
-Langenbrunner, B., M. S. Pritchard, and J. T. Randerson, 2018: Why does amazonian precipitation decrease in the plant physiological response to increased CO~2? __In preparation.__
+Langenbrunner, B., M. S. Pritchard, and J. T. Randerson, 2018: Why does amazonian precipitation decrease in the plant physiological response to increased CO~2~? __In preparation.__
 
 Swain, D., B. Langenbrunner, A. Hall, and J. D. Neelin, 2017: Increasing weather whiplash in 21st century California. __In review__ at Nature Climate Change.
 
 ## Peer-reviewed
 
-0. Langenbrunner, B., and J. D. Neelin, 2017: Pareto-optimal estimates of California precipitation change. Geophysical Re- search Letters, 44 (24), 12,436–12,446.
+0. Langenbrunner, B., and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change. Geophysical Re- search Letters][langenbrunner2017_grl], 44 (24), 12,436–12,446.
 
-0. Langenbrunner, B., and J. D. Neelin, 2017: Multiobjective constraints for climate model parameter choices: Pragmatic pareto fronts in cesm1. Journal of Advances in Modeling Earth Systems, 9 (5), 2008–2026.
+0. Langenbrunner, B., and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic pareto fronts in CESM1][langenbrunner2017_james]. Journal of Advances in Modeling Earth Systems, 9 (5), 2008–2026.
 
 0. Lintner, B. R., B. Langenbrunner, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: Characterizing CMIP5 model spread in simulated rainfall in the Pacific Intertropical Convergence and South Pacific Convergence Zones. Journal of Geophysical Research: Atmospheres, 121 (19).
 
