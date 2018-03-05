@@ -43,6 +43,7 @@ __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections i
 [neelin2013_jclim]: https://bairdlangenbrunner.github.io/neelin2013_jclim.pdf
 [neelin2016_jgr]: https://bairdlangenbrunner.github.io/lintner2016_jgr.pdf
 [berg2015_jclim]: https://bairdlangenbrunner.github.io/berg2015_jclim.pdf
+[lintner2016_jgr]: https://bairdlangenbrunner.github.io/lintner2016_jgr.pdf
 [anderson2015_grl]: https://bairdlangenbrunner.github.io/anderson2015_grl.pdf
 [maloney2014_jclim]: https://bairdlangenbrunner.github.io/maloney2014_jclim.pdf
 [sheffield2013a_jclim]: https://bairdlangenbrunner.github.io/sheffield2013a_jclim.pdf
