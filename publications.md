@@ -5,8 +5,6 @@ permalink: /publications/
 order: 4
 ---
 
-    This page is still under construction...
-
 ## Works in progress
 
 __Langenbrunner, B.__, M. S. Pritchard, and J. T. Randerson, 2018: Why does amazonian precipitation decrease in the plant physiological response to increased CO<sub>2</sub>? __In preparation.__
