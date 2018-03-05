@@ -19,7 +19,7 @@ __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of Cali
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, 9 (5), 2008–2026.
 
-Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: Characterizing CMIP5 model spread in simulated rainfall in the Pacific Intertropical Convergence and South Pacific Convergence Zones. _Journal of Geophysical Research: Atmospheres_, 121 (19).
+Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, 121 (19).
 
 __Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. Journal of Climate, 28, 7858–7872.
 
@@ -37,13 +37,14 @@ Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013:
 
 __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. Journal of Climate, 26 (13), 4431–4446.
 
-{: reversed="reversed"}
 
+[langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/langenbrunner2017_grl.pdf
 [langenbrunner2017_james]: https://bairdlangenbrunner.github.io/langenbrunner2017_james.pdf
 [langenbrunner2015_jclim]: https://bairdlangenbrunner.github.io/langenbrunner2015_jclim.pdf
 [langenbrunner2013_jclim]: https://bairdlangenbrunner.github.io/langenbrunner2013_jclim.pdf
 [neelin2013_jclim]: https://bairdlangenbrunner.github.io/neelin2013_jclim.pdf
-
+[neelin2016_jgr]: https://bairdlangenbrunner.github.io/lintner2016_jgr.pdf
+[berg2015_jclim]: https://bairdlangenbrunner.github.io/berg2015_jclim.pdf
 [anderson2015_grl]: https://bairdlangenbrunner.github.io/anderson2015_grl.pdf
 [maloney2014_jclim]: https://bairdlangenbrunner.github.io/maloney2014_jclim.pdf
 [sheffield2013a_jclim]: https://bairdlangenbrunner.github.io/sheffield2013a_jclim.pdf
