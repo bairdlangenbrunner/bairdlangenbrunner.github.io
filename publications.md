@@ -5,6 +5,8 @@ permalink: /publications/
 order: 4
 ---
 
+    This page is still under construction...
+
 ## Work in progress
 
 __Langenbrunner, B.__, M. S. Pritchard, and J. T. Randerson, 2018: Why does amazonian precipitation decrease in the plant physiological response to increased CO~2~? __In preparation.__
@@ -19,7 +21,7 @@ __Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for c
 
 Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: Characterizing CMIP5 model spread in simulated rainfall in the Pacific Intertropical Convergence and South Pacific Convergence Zones. Journal of Geophysical Research: Atmospheres, 121 (19).
 
-__Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track. Journal of Climate, 28, 7858–7872.
+__Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. Journal of Climate, 28, 7858–7872.
 
 Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, and J. Syktus, 2015: Sensitivity of terrestrial precipitation trends to the structural evolution of sea surface temperatures. Geophysical Research Letters, 42 (4), 1190– 1196.
 
@@ -31,10 +33,13 @@ Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnausk
 
 Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: North american climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology. Journal of Climate, 26 (23), 9209–9245.
 
-Neelin, J. D., B. Langenbrunner, J. E. Meyerson, A. Hall, and N. Berg, 2013: California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble. Journal of Climate, 26 (17), 6238–6256.
+Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. Journal of Climate, 26 (17), 6238–6256.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2013: Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation. Journal of Climate, 26 (13), 4431–4446.
+__Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. Journal of Climate, 26 (13), 4431–4446.
 
 {: reversed="reversed"}
 
 [langenbrunner2017_james]: https://bairdlangenbrunner.github.io/langenbrunner2017_james.pdf
+[langenbrunner2015_jclim]: https://bairdlangenbrunner.github.io/langenbrunner2015_jclim.pdf
+[langenbrunner2013_jclim]: https://bairdlangenbrunner.github.io/langenbrunner2013_jclim.pdf
+[neelin2013_jclim]: https://bairdlangenbrunner.github.io/neelin2013_jclim.pdf
