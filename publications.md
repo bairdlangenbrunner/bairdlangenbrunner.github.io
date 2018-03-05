@@ -13,7 +13,7 @@ Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2017: Increasing wea
 
 ## Peer-reviewed
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change. Geophysical Re- search Letters][langenbrunner2017_grl].  _Geophysical Research Letters_, 44 (24), 12,436-12,446.
+__Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, 44 (24), 12,436-12,446.
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, 9 (5), 2008–2026.
 
@@ -25,11 +25,11 @@ Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, 
 
 Berg, N., A. Hall, F. Sun, S. Capps, D. Walton, __B.Langenbrunner__, and J. D. Neelin, 2015:  [Twenty-first-century precipitation changes over the Los Angeles region][berg2015_jclim]. _Journal of Climate_, 28 (2), 401–421.
 
-Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North american climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections. Journal of Climate][maloney2014_jclim].  Journal of Climate, 27 (6), 2230–2270.
+Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North american climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections][maloney2014_jclim].  Journal of Climate, 27 (6), 2230–2270.
 
 Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, S. T. Kim, J. Kinter, S. Kumar, __B. Langenbrunner__, E. Maloney, A. Mariotti, J. E. Meyerson, J. D. Neelin, S. Nigam, Z. Pan, A. Ruiz-Barradas, R. Seager, Y. L. Serra, D.-Z. Sun, C. Wang, S.-P. Xie, J.-Y. Yu, T. Zhang, and M. Zhao, 2013: [North american climate in CMIP5 experiments. Part II: Evaluation of historical simulations of intraseasonal to decadal variability][sheffield2013b_jclim]. Journal of Climate, 26 (23), 9247–9290.
 
-Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North american climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology. Journal of Climate][sheffield2013a_jclim].  Journal of Climate, 26 (23), 9209–9245.
+Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North american climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology][sheffield2013a_jclim].  Journal of Climate, 26 (23), 9209–9245.
 
 Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. Journal of Climate, 26 (17), 6238–6256.
 
