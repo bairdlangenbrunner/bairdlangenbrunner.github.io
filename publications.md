@@ -5,6 +5,4 @@ permalink: /publications/
 order: 4
 ---
 
-{% reference langenbrunner2017_james %}
-
     Under construction
