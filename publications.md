@@ -36,3 +36,5 @@ Swain, D., B. Langenbrunner, A. Hall, and J. D. Neelin, 2017: Increasing weather
 0. Langenbrunner, B., and J. D. Neelin, 2013: Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation. Journal of Climate, 26 (13), 4431–4446.
 
 {: reversed="reversed"}
+
+[langenbrunner2017_grl]: 
