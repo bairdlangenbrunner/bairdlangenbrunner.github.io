@@ -37,4 +37,4 @@ Swain, D., B. Langenbrunner, A. Hall, and J. D. Neelin, 2017: Increasing weather
 
 {: reversed="reversed"}
 
-[langenbrunner2017_grl]: 
+[langenbrunner2017_james]: https://bairdlangenbrunner.github.io/langenbrunner2017_james.pdf
