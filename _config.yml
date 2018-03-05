@@ -31,11 +31,6 @@ plugins:
   - jekyll-feed
   - jemoji
 
-# BibTex Citation plugin
-citation:
-    citation_style: apa
-    citation_locale: en
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
