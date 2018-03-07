@@ -13,27 +13,27 @@ Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2017: Increasing cli
 
 ## Peer-reviewed
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, 44 (24), 12,436-12,446.
+__Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic Pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, 9 (5), 2008–2026.
+__Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic Pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, __9 (5)__, 2008-2026.
 
-Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, 121 (19).
+Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, __121 (19)__.
 
-__Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. Journal of Climate, 28, 7858–7872.
+__Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. Journal of Climate, __28__, 7858–7872.
 
-Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, and J. Syktus, 2015: [Sensitivity of terrestrial precipitation trends to the structural evolution of sea surface temperatures][anderson2015_grl]. _Geophysical Research Letters_, 42 (4), 1190– 1196.
+Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, and J. Syktus, 2015: [Sensitivity of terrestrial precipitation trends to the structural evolution of sea surface temperatures][anderson2015_grl]. _Geophysical Research Letters_, __42 (4)__, 1190– 1196.
 
-Berg, N., A. Hall, F. Sun, S. Capps, D. Walton, __B.Langenbrunner__, and J. D. Neelin, 2015:  [Twenty-first-century precipitation changes over the Los Angeles region][berg2015_jclim]. _Journal of Climate_, 28 (2), 401–421.
+Berg, N., A. Hall, F. Sun, S. Capps, D. Walton, __B.Langenbrunner__, and J. D. Neelin, 2015:  [Twenty-first-century precipitation changes over the Los Angeles region][berg2015_jclim]. _Journal of Climate_, __28 (2)__, 401–421.
 
-Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North american climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections][maloney2014_jclim].  Journal of Climate, 27 (6), 2230–2270.
+Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North american climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections][maloney2014_jclim].  Journal of Climate, __27 (6)__, 2230–2270.
 
-Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, S. T. Kim, J. Kinter, S. Kumar, __B. Langenbrunner__, E. Maloney, A. Mariotti, J. E. Meyerson, J. D. Neelin, S. Nigam, Z. Pan, A. Ruiz-Barradas, R. Seager, Y. L. Serra, D.-Z. Sun, C. Wang, S.-P. Xie, J.-Y. Yu, T. Zhang, and M. Zhao, 2013: [North american climate in CMIP5 experiments. Part II: Evaluation of historical simulations of intraseasonal to decadal variability][sheffield2013b_jclim]. Journal of Climate, 26 (23), 9247–9290.
+Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, S. T. Kim, J. Kinter, S. Kumar, __B. Langenbrunner__, E. Maloney, A. Mariotti, J. E. Meyerson, J. D. Neelin, S. Nigam, Z. Pan, A. Ruiz-Barradas, R. Seager, Y. L. Serra, D.-Z. Sun, C. Wang, S.-P. Xie, J.-Y. Yu, T. Zhang, and M. Zhao, 2013: [North american climate in CMIP5 experiments. Part II: Evaluation of historical simulations of intraseasonal to decadal variability][sheffield2013b_jclim]. Journal of Climate, __26 (23)__, 9247–9290.
 
-Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North american climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology][sheffield2013a_jclim].  Journal of Climate, 26 (23), 9209–9245.
+Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North american climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology][sheffield2013a_jclim].  Journal of Climate, __26 (23)__, 9209–9245.
 
-Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. Journal of Climate, 26 (17), 6238–6256.
+Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. Journal of Climate, __26 (17)__, 6238–6256.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. Journal of Climate, 26 (13), 4431–4446.
+__Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
 
 
 [langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/langenbrunner2017_grl.pdf
