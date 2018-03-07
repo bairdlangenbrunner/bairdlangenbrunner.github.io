@@ -17,7 +17,6 @@ code {
     padding: 1px 4px;
 }
 
-
 .prose {
 
   p, ol, ul {
@@ -46,7 +45,6 @@ code {
   img {
 
     max-width: 100%;
-
     @media (min-width: $breakpoint-lg) {
       max-width: (12 / 10 * 100%); // make image fill width of container on desktop
     }
@@ -67,14 +65,14 @@ code {
       font-size: $body-font-size; //24px; baird
     }
 
-    @media (min-width: $breakpoint-lg) {
-      padding-left: $spacer-3;
-      margin: $spacer-4 0 $spacer-4 -40px;
-      max-width: (11 / 10 * 100%);
-
-      p {
-        font-size: $body-font-size; //32px; baird
-      }
+//     @media (min-width: $breakpoint-lg) {
+//       padding-left: $spacer-3;
+//       margin: $spacer-4 0 $spacer-4 -40px;
+//       max-width: (11 / 10 * 100%);
+// 
+//       p {
+//         font-size: $body-font-size; //32px; baird
+//       }
 
     }
 

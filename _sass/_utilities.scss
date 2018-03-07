@@ -11,7 +11,6 @@
 }
 
 .text-right { text-align: right; }
-
 .no-underline {
   text-decoration: none !important;
 
@@ -22,9 +21,7 @@
 
 .bold { font-weight: bold; }
 .uppercase { text-transform: uppercase; }
-
 .lh-condensed { line-height: 1.25; }
-
 .list-reset {
   list-style: none;
   padding-left: 0;
@@ -82,19 +79,15 @@
 
 .block        { display: block !important; }
 .inline-block { display: inline-block !important; }
-
 .table { display: table !important; }
-
 .left { float: left; }
 .right { float: right; }
-
 .clearfix:before,
 .clearfix:after {
   content: " ";
   display: table
 }
 .clearfix:after { clear: both }
-
 .align-middle { vertical-align: middle; }
 
 /* Padding */
