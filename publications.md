@@ -15,7 +15,7 @@ Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2017: Increasing cli
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, 44 (24), 12,436-12,446.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, 9 (5), 2008–2026.
+__Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic Pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, 9 (5), 2008–2026.
 
 Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, 121 (19).
 
