@@ -5,7 +5,7 @@
   //margin-top: 0.85em;
   word-wrap: break-word;
 
-  @media (min-width: $breakpoint-lg) {
+  @media (min-width: $breakpoint-sm) {
     font-size: $h0-desktop;
   }
 }
