@@ -27,7 +27,7 @@ code {
     @media (min-width: $breakpoint-lg) {
       //width: (10 / 12 * 100%); // matches col-10
       max-width: $breakpoint-lg;
-      margin-left: 5em;
+      margin-left: $all-margins-left;
     }
 
   }
