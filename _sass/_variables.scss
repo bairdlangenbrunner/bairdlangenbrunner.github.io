@@ -19,7 +19,7 @@ $container-width: 55em;//64em;
 
 // Large breakpoint
 $breakpoint-lg: $container-width;
-$breakpoint-sm: calc($container-width - 15em)
+$breakpoint-sm: calc($container-width - 15em);
 
 // Spacing unit
 $spacer: 8px !default;
