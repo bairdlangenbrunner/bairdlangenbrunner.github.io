@@ -11,7 +11,7 @@ order: 3
 {::comment}{:center}
 {:/comment}
 
-<img align="left" src="https://imgs.xkcd.com/comics/tar.png" alt="map" width="85%">
+<img align="left" src="https://imgs.xkcd.com/comics/tar.png" alt="map" width="100%">
 <br clear="left">
 
 _xkcd comic [tar](https://xkcd.com/1168/)_
