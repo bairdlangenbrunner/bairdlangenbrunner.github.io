@@ -9,7 +9,9 @@ order: 4
 
 __Langenbrunner, B.__, M. S. Pritchard, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease in the plant physiological response to increased CO<sub>2</sub>? __In preparation.__
 
-Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2017: Increasing climate whiplash in 21st century California. __In review__ at _Nature Climate Change_.
+Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in Central America and northern South America linked with Atlantic meridional overturning circulation.  __In review__ at _Geophysical Research Letters_.
+
+Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2017: Increasing precipitation volatility in 21st century California. __In press__ at _Nature Climate Change_.
 
 ## Peer-reviewed
 
