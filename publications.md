@@ -11,9 +11,9 @@ __Langenbrunner, B.__, M. S. Pritchard, and J. T. Randerson, 2018: Why does Amaz
 
 Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in Central America and northern South America linked with Atlantic meridional overturning circulation.  __In review__ at _Geophysical Research Letters_.
 
-Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: Increasing precipitation volatility in 21st century California. __In press__ at _Nature Climate Change_.
-
 ## Published
+
+Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. __In press__ at _Nature Climate Change_.
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
 
@@ -50,3 +50,4 @@ __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections i
 [maloney2014_jclim]: https://bairdlangenbrunner.github.io/maloney2014_jclim.pdf
 [sheffield2013a_jclim]: https://bairdlangenbrunner.github.io/sheffield2013a_jclim.pdf
 [sheffield2013b_jclim]: https://bairdlangenbrunner.github.io/sheffield2013b_jclim.pdf
+[swain2018_ncc]: https://www.nature.com/articles/s41558-018-0140-y
