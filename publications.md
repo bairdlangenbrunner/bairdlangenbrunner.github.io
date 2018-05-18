@@ -13,7 +13,7 @@ Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future dryin
 
 ## Published
 
-Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. __In press__ at _Nature Climate Change_.
+Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. _Nature Climate Change_, __8__, 427-433.
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
 
