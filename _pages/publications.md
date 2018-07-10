@@ -38,15 +38,15 @@ Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013:
 __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
 
 [swain2018_ncc]: https://www.nature.com/articles/s41558-018-0140-y
-[langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/papers/langenbrunner2017_grl.pdf
-[langenbrunner2017_james]: https://bairdlangenbrunner.github.io/papers/langenbrunner2017_james.pdf
-[langenbrunner2015_jclim]: https://bairdlangenbrunner.github.io/papers/langenbrunner2015_jclim.pdf
-[langenbrunner2013_jclim]: https://bairdlangenbrunner.github.io/papers/langenbrunner2013_jclim.pdf
-[neelin2013_jclim]: https://bairdlangenbrunner.github.io/papers/neelin2013_jclim.pdf
-[neelin2016_jgr]: https://bairdlangenbrunner.github.io/papers/lintner2016_jgr.pdf
-[berg2015_jclim]: https://bairdlangenbrunner.github.io/papers/berg2015_jclim.pdf
-[lintner2016_jgr]: https://bairdlangenbrunner.github.io/papers/lintner2016_jgr.pdf
-[anderson2015_grl]: https://bairdlangenbrunner.github.io/papers/anderson2015_grl.pdf
-[maloney2014_jclim]: https://bairdlangenbrunner.github.io/papers/maloney2014_jclim.pdf
-[sheffield2013a_jclim]: https://bairdlangenbrunner.github.io/papers/sheffield2013a_jclim.pdf
-[sheffield2013b_jclim]: https://bairdlangenbrunner.github.io/papers/sheffield2013b_jclim.pdf
+[langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/_papers/langenbrunner2017_grl.pdf
+[langenbrunner2017_james]: https://bairdlangenbrunner.github.io/_papers/langenbrunner2017_james.pdf
+[langenbrunner2015_jclim]: https://bairdlangenbrunner.github.io/_papers/langenbrunner2015_jclim.pdf
+[langenbrunner2013_jclim]: https://bairdlangenbrunner.github.io/_papers/langenbrunner2013_jclim.pdf
+[neelin2013_jclim]: https://bairdlangenbrunner.github.io/_papers/neelin2013_jclim.pdf
+[neelin2016_jgr]: https://bairdlangenbrunner.github.io/_papers/lintner2016_jgr.pdf
+[berg2015_jclim]: https://bairdlangenbrunner.github.io/_papers/berg2015_jclim.pdf
+[lintner2016_jgr]: https://bairdlangenbrunner.github.io/_papers/lintner2016_jgr.pdf
+[anderson2015_grl]: https://bairdlangenbrunner.github.io/_papers/anderson2015_grl.pdf
+[maloney2014_jclim]: https://bairdlangenbrunner.github.io/_papers/maloney2014_jclim.pdf
+[sheffield2013a_jclim]: https://bairdlangenbrunner.github.io/_papers/sheffield2013a_jclim.pdf
+[sheffield2013b_jclim]: https://bairdlangenbrunner.github.io/_papers/sheffield2013b_jclim.pdf
