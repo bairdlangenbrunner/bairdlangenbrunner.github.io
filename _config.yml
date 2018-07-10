@@ -25,7 +25,8 @@ linkedin_username:  bairdlangenbrunner
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+#theme: jekyll-swiss
+remote_theme: bairdlangenbrunner/swiss
 theme_color: solarized
 plugins:
   - jekyll-feed
@@ -33,7 +34,6 @@ plugins:
 
 include:
   - _pages
-  - _papers
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
