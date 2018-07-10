@@ -27,7 +27,7 @@ linkedin_username:  bairdlangenbrunner
 markdown: kramdown
 #theme: jekyll-swiss
 remote_theme: bairdlangenbrunner/swiss
-theme_color: solarized
+theme_color: solarized-orange
 plugins:
   - jekyll-feed
   - jemoji
