@@ -2,7 +2,7 @@
 layout: page
 title: setup
 permalink: /setup/
-order: 3
+order: 5
 ---
 
 {::comment}
