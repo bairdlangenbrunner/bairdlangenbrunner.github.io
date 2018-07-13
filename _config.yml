@@ -36,6 +36,27 @@ collections:
     output: true
     permalink: /:collection/:name
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page-no-title
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page-no-title
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: page-no-title
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

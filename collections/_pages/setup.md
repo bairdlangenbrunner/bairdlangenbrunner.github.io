@@ -1,5 +1,5 @@
 ---
-layout: page
+
 title: setup
 permalink: /setup/
 order: 5
