@@ -5,9 +5,9 @@ permalink: /about/
 order: 1
 ---
 
-<img class="img-pad-right" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="250px">  Hi, I'm Baird.
+<img class="img-pad-right" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px">  Hi, I'm Baird.
 
-:earth_africa: :earth_americas: :earth_asia:
+<!--:earth_africa: :earth_americas: :earth_asia:-->
 
 I'm a climate scientist and postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/).
 
@@ -17,7 +17,7 @@ I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](h
 
 You can download my cv [here][cv-link].
 
-Also, [this is important][important-link].
+Also, [this is on the internet][important-link]!
 
 [cv-link]:  {{ site.baseurl }}{% link cv_baird.pdf %}
 [important-link]: /important/
