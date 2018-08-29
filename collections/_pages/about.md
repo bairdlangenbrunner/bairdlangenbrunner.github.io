@@ -11,7 +11,9 @@ order: 1
 
 I'm a climate scientist and postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/).
 
-I study land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I'm interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
+My research is motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of climate change and its societal impacts.
+
+At UC Irvine, I study land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I'm interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
 
 I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi/).
 
