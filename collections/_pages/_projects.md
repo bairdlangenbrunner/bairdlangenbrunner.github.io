@@ -2,7 +2,7 @@
 permalink: /research/index.html
 layout: page
 title: research
-order: 3
+order: 2
 ---
 
 # Indonesia under increased CO<sub>2</sub> and deforestation

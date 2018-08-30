@@ -6,7 +6,7 @@ order: 4
 
 ## In progress
 
-__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__
+__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__  *Click to download the [EarthArXiv preprint][langenbrunner2018_ef] and the [Supporting Information][langenbrunner2018_ef_supp].*
 
 ## Published
 
@@ -36,7 +36,10 @@ Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013:
 
 __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
 
-[swain2018_ncc]: https://www.nature.com/articles/s41558-018-0140-y
+[langenbrunner2018_ef]: https://eartharxiv.org/9fesz
+[langenbrunner2018_ef_supp]: https://bairdlangenbrunner.github.io/papers/SI_langenbrunner_etal_2018_EarthArXiv_preprint.pdf
+[swain2018_ncc]: https://bairdlangenbrunner.github.io/papers/swain2018_ncc.pdf
+[swain2018_ncc_supp]: https://bairdlangenbrunner.github.io/papers/swain2018_ncc_supp.pdf
 [langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/papers/langenbrunner2017_grl.pdf
 [langenbrunner2017_james]: https://bairdlangenbrunner.github.io/papers/langenbrunner2017_james.pdf
 [langenbrunner2015_jclim]: https://bairdlangenbrunner.github.io/papers/langenbrunner2015_jclim.pdf
