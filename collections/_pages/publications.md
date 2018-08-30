@@ -6,7 +6,7 @@ order: 4
 
 ## In progress
 
-__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__ 
+__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__ 
 * Click to download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
 
 ## Published
