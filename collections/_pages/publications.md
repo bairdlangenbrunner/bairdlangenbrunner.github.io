@@ -6,13 +6,15 @@ order: 4
 
 ## In progress
 
-__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__  *Click to download the [EarthArXiv preprint][langenbrunner2018_ef] and the [Supporting Information][langenbrunner2018_ef_supp].*
+__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazonian precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__ 
+* Click to download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
 
 ## Published
 
 Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in Central America and northern South America linked with Atlantic meridional overturning circulation.  __In press__ at _Geophysical Research Letters_.
 
 Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. _Nature Climate Change_, __8__, 427-433.
+* [Download supplement.][swain2018_ncc_supp]
 
 __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
 
