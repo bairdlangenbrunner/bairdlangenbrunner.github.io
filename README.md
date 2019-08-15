@@ -1,3 +1,3 @@
 # Baird Langenbrunner
 
-### Research website
+### personal website
