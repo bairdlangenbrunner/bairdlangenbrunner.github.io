@@ -23,7 +23,7 @@ I'm a big Python fan.
 
 I've helped organize a few different tutorials aimed at grad students and researchers interested in learning the language.  Most of these center around NetCDF analysis and plotting maps.  Check out our GitHub repository at UCI [here][github-ess-python] for more info.
 
-I'm also getting a separate [Python for climate scientists][github-python-for-climate-scientists] project going on GitHub.  Check in periodically for udpates.
+<!--I'm also getting a separate [Python for climate scientists][github-python-for-climate-scientists] project going on GitHub.  Check in periodically for udpates.-->
 
 [github-ess-python]: https://github.com/raspstephan/ESS-Python-Tutorial
 [github-python-for-climate-scientists]: https://bairdlangenbrunner.github.io/python-for-climate-scientists/
