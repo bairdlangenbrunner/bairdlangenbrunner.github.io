@@ -4,12 +4,13 @@ permalink: /publications/
 order: 4
 ---
 
-## In progress
+Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date publications, including those from my current editorial role.
 
-__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>? __Submitted to *Earth's Future*.__ 
-* Click to download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
+<!--## In progress-->
+<!--## Published-->
 
-## Published
+__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: [Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>?][langenbrunner2019_ef] _Earth's Future_, __7 (4)__, 450-468.
+* Download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
 
 Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in Central America and northern South America linked with Atlantic meridional overturning circulation.  __In press__ at _Geophysical Research Letters_.
 
@@ -40,6 +41,7 @@ __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections i
 
 [langenbrunner2018_ef]: https://eartharxiv.org/9fesz
 [langenbrunner2018_ef_supp]: https://bairdlangenbrunner.github.io/papers/SI_langenbrunner_etal_2018_EarthArXiv_preprint.pdf
+[langenbrunner2019_ef]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EF001026
 [swain2018_ncc]: https://bairdlangenbrunner.github.io/papers/swain2018_ncc.pdf
 [swain2018_ncc_supp]: https://bairdlangenbrunner.github.io/papers/swain2018_ncc_supp.pdf
 [langenbrunner2017_grl]: https://bairdlangenbrunner.github.io/papers/langenbrunner2017_grl.pdf
