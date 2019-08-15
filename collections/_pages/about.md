@@ -5,21 +5,21 @@ permalink: /about/
 order: 1
 ---
 
-<img class="img-pad-right" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px">  Hi, I'm Baird.
+<img class="img-pad-right" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px">  Hi, I'm Baird. As of early 2019, I work full-time as an Associate Editor at [Nature Climate Change](https://www.nature.com/nclimate/) in the NYC office, where I handle a manuscripts related to the physical climate system.
+
+This is my personal website, so any views and language here are (obviously) mine and mine alone.
 
 <!--:earth_africa: :earth_americas: :earth_asia:-->
 
-I'm a climate scientist and postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/).
+I'm a climate scientist and most recently worked as a postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/). I studied land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I was interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
 
-My research is motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of climate change and its societal impacts.
-
-At UC Irvine, I study land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I'm interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
+More broadly, my academic research career was motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of climate change and its societal impacts.
 
 I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi/).
 
-You can download my cv [here][cv-link].
+<!--You can download my cv [here][cv-link].-->
 
-Also, [this is on the internet][important-link]!
+Please note that [this is on the internet][important-link]!
 
 [cv-link]:  {{ site.baseurl }}{% link cv_baird.pdf %}
 [important-link]: /important/
