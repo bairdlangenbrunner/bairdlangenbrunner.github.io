@@ -3,7 +3,7 @@ timezone: America/Los_Angeles
 email: bairdlangenbrunner@gmail.com
 author: Baird
 
-theme_color: orange-light
+theme_color: black-light
 syntax_highlighting: light
 gradient_header: false
 
@@ -16,7 +16,7 @@ linkedin_username:  bairdlangenbrunner
 # Build settings
 markdown: kramdown
 #theme: jekyll-swiss
-remote_theme: bairdlangenbrunner/swiss
+remote_theme: bairdlangenbrunner/swiss-cheese
 plugins:
   - jekyll-feed
   - jemoji
