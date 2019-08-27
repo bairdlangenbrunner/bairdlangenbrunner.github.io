@@ -1,11 +1,12 @@
-title: Baird Langenbrunnerrr
-timezone: America/Los_Angeles
+title: Baird Langenbrunner
+timezone: America/New_York_City
 email: bairdlangenbrunner@gmail.com
 author: Baird
 
-theme_color: black-light
+theme_color: orange-light
 syntax_highlighting: light
 gradient_header: false
+home_social_buttons: true
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
