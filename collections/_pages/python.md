@@ -11,7 +11,7 @@ order: 3
 ![homolosine map](https://bairdlangenbrunner.github.io/homolosine_map.svg )
 -->
 
-<img align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map" width="100%">
+<img class="page-header-img" align="left" src="https://bairdlangenbrunner.github.io/homolosine_map.svg" alt="map">
 <br clear="left">
 
 <!--_see the [python code](./homolosine_map.ipynb) used to create this map_-->
