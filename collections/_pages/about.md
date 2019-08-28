@@ -5,9 +5,9 @@ permalink: /about/
 order: 1
 ---
 
-<img class="img-pad-right" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px">  Hi, I'm Baird. As of early 2019, I work full-time as an Associate Editor at [Nature Climate Change](https://www.nature.com/nclimate/) in the NYC office, where I handle manuscripts related to the physical climate system.
+<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px"> Hi, I'm Baird. As of early 2019, I work full-time as an Associate Editor at [Nature Climate Change](https://www.nature.com/nclimate/) in the NYC office, where I handle manuscripts on the physical climate system.
 
-This is my personal website, so any views here are (obviously) mine and mine alone.
+This is my personal website, so the views here are mine alone.
 
 <!--:earth_africa: :earth_americas: :earth_asia:-->
 
@@ -19,10 +19,10 @@ I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](h
 
 <!--You can download my cv [here][cv-link].-->
 
-Please note that [this is on the internet][important-link]!
+<!--Please note that [this is on the internet][important-link]!-->
 
 [cv-link]:  {{ site.baseurl }}{% link cv_baird.pdf %}
-[important-link]: /important/
+<!--[important-link]: /important/-->
 
 
 {::comment}

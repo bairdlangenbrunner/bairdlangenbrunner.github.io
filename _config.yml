@@ -7,11 +7,13 @@ theme_color: orange-light
 syntax_highlighting: light
 gradient_header: false
 home_social_buttons: true
+header_accent_bgcolor: false # line on front page same as background color
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  heyitsbaird
 github_username:  bairdlangenbrunner
+github_site_repo: swiss-cheese
 linkedin_username:  bairdlangenbrunner
 
 # Build settings

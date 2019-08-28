@@ -6,6 +6,8 @@ order: 4
 
 Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date publications, including those from my current editorial role.
 
+<div class="border-top-thin clearfix mt-3 mb-3 "></div>
+
 <!--## In progress-->
 <!--## Published-->
 
