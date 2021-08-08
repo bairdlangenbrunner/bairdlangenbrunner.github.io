@@ -5,17 +5,17 @@ permalink: /about/
 order: 1
 ---
 
-<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px"> Hi, I'm Baird. As of August 2021, I work as a research analyst at [Globel Energy Monitor](https://www.globlenergymonitor.org). Previously, I worked as an editor at [Nature Climate Change](https://www.nature.com/nclimate/) in the NYC office, where I handled research and commentary submissions on the physical climate system.
+<img class="img-pad-right-bottom" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.jpg" alt="Baird" width="200px"> Hi, I'm Baird. As of August 2021, I work as a research analyst at [Global Energy Monitor](https://globalenergymonitor.org/), where work on the [Global Fossil Infrastructure Tracker (GFIT)](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/). Previously, I worked as an editor at [Nature Climate Change](https://www.nature.com/nclimate/), where I handled research and commentary submissions on the physical climate system.
 
-This is my personal website, so the views here are mine alone.
+This is my personal website, and the content here does not represent employers past or present.
 
 <!--:earth_africa: :earth_americas: :earth_asia:-->
 
-I'm a climate scientist with a PhD in Atmospheric and Oceanic Sciences from UCLA (2015), and a Sc.B. in Geophysics from Brown University (2009). After finishing grad school, I worked as a postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/). I studied land-atmosphere interactions as a joint member of the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  More specifically, I was interested in how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
+I received my PhD in [Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/) from UCLA (2015), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi/). I also have a Sc.B. in Geophysics from Brown University (2009).
 
-More broadly, my academic research career was motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of climate change and its societal impacts.
+My academic research was driven by the goal of understanding and improving Earth system models so that they can be used to make better predictions of climate change and its impacts.
 
-I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/), where I worked in the [Climate Systems Interactions group](http://research.atmos.ucla.edu/csi/).
+After grad school, I worked as a postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/), where I studied land–atmosphere interaction in the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  This work was motivated by understanding how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
 
 <!--You can download my cv [here][cv-link].-->
 
@@ -23,7 +23,6 @@ I received my PhD in the UCLA [Department of Atmospheric and Oceanic Sciences](h
 
 [cv-link]:  {{ site.baseurl }}{% link cv_baird.pdf %}
 <!--[important-link]: /important/-->
-
 
 {::comment}
 At UCI, I am studying the response of tropical forests (the Amazon and Indonesian archipelago) to different types of land surface and environmental change. Human activities like deforestation and carbon dioxide emissions alter energy and moisture fluxes at the land surface, which in turn can impact regional atmospheric dynamics, and I’m using WRF and CESM to better understand these interactions. More broadly, my current and previous research has been motivated by the goal of understanding and improving Earth system models so that they can be used to make better predictions of regional climate change and its societal impacts.
