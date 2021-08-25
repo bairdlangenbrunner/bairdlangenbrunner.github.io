@@ -15,9 +15,9 @@ My academic research was driven by the goal of understanding and improving Earth
 
 After grad school, I worked as a postdoc in the UC Irvine [Department of Earth System Science](https://www.ess.uci.edu/), where I studied land–atmosphere interaction in the [Pritchard](http://sites.uci.edu/pritchard/) and [Randerson](http://sites.uci.edu/randersonlab/) research groups.  This work was motivated by understanding how tropical forests respond to different types of land surface and environmental change, including increased carbon dioxide concentrations and deforestation, and how these changes affect the overlying atmosphere.
 
-<!--You can download my cv [here][cv-link].-->
+Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for an up-to-date publications record.
 
-<!--Please note that [this is on the internet][important-link]!-->
+<!--You can download my cv [here][cv-link].-->
 
 [cv-link]:  {{ site.baseurl }}{% link cv_baird.pdf %}
 <!--[important-link]: /important/-->
