@@ -7,7 +7,7 @@ order: 1
 
 <!--<img class="" align="left" src="https://bairdlangenbrunner.github.io/website_photo_bw.png" alt="Baird" width=150px>-->
 
-Hi, I'm Baird. As of August 2021, I work as a research analyst at [Global Energy Monitor](https://globalenergymonitor.org/), where I help manage the [Global Fossil Infrastructure Tracker (GFIT)](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/). I previously worked as an editor at [Nature Climate Change](https://www.nature.com/nclimate/), where I handled research and commentary submissions on the physical climate system.
+As of August 2021, I work as a research analyst at [Global Energy Monitor](https://globalenergymonitor.org/), where I help manage the [Global Fossil Infrastructure Tracker (GFIT)](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/). I previously worked as an editor at [Nature Climate Change](https://www.nature.com/nclimate/), where I handled research and commentary submissions on the physical climate system.
 
 <!--:earth_africa: :earth_americas: :earth_asia:-->
 
