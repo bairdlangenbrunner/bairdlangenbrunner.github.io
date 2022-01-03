@@ -16,6 +16,8 @@ order: 5
 
 _xkcd comic [tar](https://xkcd.com/1168/)_
 
+## Hi, and thanks for clicking on this page. I no longer update it, so some of the recommendations are definitely out-of-date. Please proceed with a grain of salt.
+
 # My work setup
 
 There's a really great website called [Uses This][uses this] that asks people what they use to "get stuff done."  I love this idea of workflow transparency, so in the vein of sharing cool ideas, I hope this information will be useful to someone.
