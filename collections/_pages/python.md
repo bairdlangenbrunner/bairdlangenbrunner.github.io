@@ -21,7 +21,7 @@ order: 3
 
 I'm a big Python fan.
 
-It's been a couple years, but in the past I've helped organize a few different tutorials aimed at grad students and researchers interested in learning Python for data analysis in the atmospheric and oceanic sciences.  Most of these center around NetCDF analysis and plotting maps.
+It's been a few years, but in the past I've helped organize a few different tutorials aimed at grad students and researchers interested in learning Python for data analysis in the atmospheric and oceanic sciences.  Most of these center around NetCDF analysis and plotting maps.
 
 Check out our GitHub repository for the informal UCI sessions [here][github-ess-python].
 
