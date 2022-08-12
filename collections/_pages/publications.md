@@ -54,7 +54,7 @@ _Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=
 1. __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
 
 [schiro2019_grl]: https://bairdlangenbrunner.github.io/papers/schiro2019_grl.pdf
-[chen2019_grl]: https://bairdlangenbrunner.github.io/papers/chen2019_grl.pdf
+[chen2018_grl]: https://bairdlangenbrunner.github.io/papers/chen2018_grl.pdf
 [langenbrunner2018_ef]: https://eartharxiv.org/9fesz
 [langenbrunner2018_ef_supp]: https://bairdlangenbrunner.github.io/papers/SI_langenbrunner_etal_2018_EarthArXiv_preprint.pdf
 [langenbrunner2019_ef]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EF001026
