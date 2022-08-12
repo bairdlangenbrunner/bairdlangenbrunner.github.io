@@ -21,7 +21,9 @@ order: 3
 
 I'm a big Python fan.
 
-I've helped organize a few different tutorials aimed at grad students and researchers interested in learning the language.  Most of these center around NetCDF analysis and plotting maps.  Check out our GitHub repository at UCI [here][github-ess-python] for more info.
+It's been a couple years, but in the past I've helped organize a few different tutorials aimed at grad students and researchers interested in learning Python for data analysis in the atmospheric and oceanic sciences.  Most of these center around NetCDF analysis and plotting maps.
+
+Check out our GitHub repository for the informal UCI sessions [here][github-ess-python].
 
 <!--I'm also getting a separate [Python for climate scientists][github-python-for-climate-scientists] project going on GitHub.  Check in periodically for udpates.-->
 
