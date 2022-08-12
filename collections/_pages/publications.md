@@ -16,42 +16,42 @@ __B. Langenbrunner__, J. July, G. Aitken, February 2022: [Pipe Dreams 2022: Stra
 
 ## Academic work
 
-Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date academic publications, including those from my editorial role at _Nature Climate Change_.
+_Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date academic publications, including those from my editorial role._
 
 <!--## In progress-->
 <!--## Published-->
 
-Schiro, K., H. Su, Y. Wang, __B. Langenbrunner__, J. H. Jiang, J. D. Neelin, 2019: [Relationships between tropical ascent and high cloud fraction changes with warming revealed by perturbation physics experiments in CAM5][schiro2019_grl]. _Geophysical Research Letters_, __46__, 9226–9235.
+15. Schiro, K., H. Su, Y. Wang, __B. Langenbrunner__, J. H. Jiang, J. D. Neelin, 2019: [Relationships between tropical ascent and high cloud fraction changes with warming revealed by perturbation physics experiments in CAM5][schiro2019_grl]. _Geophysical Research Letters_, __46__, 9226–9235.
 
-__Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: [Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>?][langenbrunner2019_ef] _Earth's Future_, __7 (4)__, 450-468.
+14. __Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: [Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>?][langenbrunner2019_ef] _Earth's Future_, __7 (4)__, 450-468.
 * Download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
 
-Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in [Future drying in Central America and northern South America linked with Atlantic meridional overturning circulation][chen2018_grl]. _Geophysical Research Letters_, __45__, 9226–9325.
+13. Chen, Y., __B. Langenbrunner__, and J. T. Randerson, 2018:  Rate of future drying in [Future drying in Central America and northern South America linked with Atlantic meridional overturning circulation][chen2018_grl]. _Geophysical Research Letters_, __45__, 9226–9325.
 
-Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. _Nature Climate Change_, __8__, 427-433.
+12. Swain, D., __B. Langenbrunner__, A. Hall, and J. D. Neelin, 2018: [Increasing precipitation volatility in twenty-first-century California][swain2018_ncc]. _Nature Climate Change_, __8__, 427-433.
 * [Download supplement.][swain2018_ncc_supp]
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
+11. __Langenbrunner, B.__, and J. D. Neelin, 2017: [Pareto-optimal estimates of California precipitation change][langenbrunner2017_grl].  _Geophysical Research Letters_, __44 (24)__, 12,436-12,446.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic Pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, __9 (5)__, 2008-2026.
+10. __Langenbrunner, B.__, and J. D. Neelin, 2017: [Multiobjective constraints for climate model parameter choices: Pragmatic Pareto fronts in CESM1][langenbrunner2017_james]. _Journal of Advances in Modeling Earth Systems_, __9 (5)__, 2008-2026.
 
-Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, __121 (19)__.
+9. Lintner, B. R., __B. Langenbrunner__, J. D. Neelin, B. T. Anderson, M. J. Niznik, G. Li, and S.-P. Xie, 2016: [Characterizing CMIP5 model spread in simulated rainfall in the Pacific intertropical convergence and south Pacific convergence zones][lintner2016_jgr]. _Journal of Geophysical Research: Atmospheres_, __121 (19)__.
 
-__Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. _Journal of Climate_, __28__, 7858–7872.
+8. __Langenbrunner, B.__, J. D. Neelin, B. R. Lintner, and B. T. Anderson, 2015: [Patterns of precipitation change and clima- tological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track][langenbrunner2015_jclim]. _Journal of Climate_, __28__, 7858–7872.
 
-Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, and J. Syktus, 2015: [Sensitivity of terrestrial precipitation trends to the structural evolution of sea surface temperatures][anderson2015_grl]. _Geophysical Research Letters_, __42 (4)__, 1190– 1196.
+7. Anderson, B. T., B. R. Lintner, __B. Langenbrunner__, J. D. Neelin, E. Hawkins, and J. Syktus, 2015: [Sensitivity of terrestrial precipitation trends to the structural evolution of sea surface temperatures][anderson2015_grl]. _Geophysical Research Letters_, __42 (4)__, 1190– 1196.
 
-Berg, N., A. Hall, F. Sun, S. Capps, D. Walton, __B. Langenbrunner__, and J. D. Neelin, 2015:  [Twenty-first-century precipitation changes over the Los Angeles region][berg2015_jclim]. _Journal of Climate_, __28 (2)__, 401–421.
+6. Berg, N., A. Hall, F. Sun, S. Capps, D. Walton, __B. Langenbrunner__, and J. D. Neelin, 2015:  [Twenty-first-century precipitation changes over the Los Angeles region][berg2015_jclim]. _Journal of Climate_, __28 (2)__, 401–421.
 
-Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North American climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections][maloney2014_jclim].  _Journal of Climate_, __27 (6)__, 2230–2270.
+5. Maloney, E. D., S. J. Camargo, E. Chang, B. Colle, R. Fu, K. L. Geil, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, J. Kinter, B. Kirtman, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, A. Mariotti, J. E. Meyerson, K. C. Mo, J. D. Neelin, Z. Pan, R. Seager, Y. Serra, A. Seth, J. Sheffield, J. Stroeve, J. Thibeault, S.-P. Xie, C. Wang, B. Wyman, and M. Zhao, 2014: [North American climate in CMIP5 experiments: Part III: Assessment of Twenty-first Century projections][maloney2014_jclim].  _Journal of Climate_, __27 (6)__, 2230–2270.
 
-Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, S. T. Kim, J. Kinter, S. Kumar, __B. Langenbrunner__, E. Maloney, A. Mariotti, J. E. Meyerson, J. D. Neelin, S. Nigam, Z. Pan, A. Ruiz-Barradas, R. Seager, Y. L. Serra, D.-Z. Sun, C. Wang, S.-P. Xie, J.-Y. Yu, T. Zhang, and M. Zhao, 2013: [North American climate in CMIP5 experiments. Part II: Evaluation of historical simulations of intraseasonal to decadal variability][sheffield2013b_jclim]. _Journal of Climate_, __26 (23)__, 9247–9290.
+4. Sheffield, J., S. J. Camargo, R. Fu, Q. Hu, X. Jiang, N. Johnson, K. B. Karnauskas, S. T. Kim, J. Kinter, S. Kumar, __B. Langenbrunner__, E. Maloney, A. Mariotti, J. E. Meyerson, J. D. Neelin, S. Nigam, Z. Pan, A. Ruiz-Barradas, R. Seager, Y. L. Serra, D.-Z. Sun, C. Wang, S.-P. Xie, J.-Y. Yu, T. Zhang, and M. Zhao, 2013: [North American climate in CMIP5 experiments. Part II: Evaluation of historical simulations of intraseasonal to decadal variability][sheffield2013b_jclim]. _Journal of Climate_, __26 (23)__, 9247–9290.
 
-Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North American climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology][sheffield2013a_jclim].  _Journal of Climate_, __26 (23)__, 9209–9245.
+3. Sheffield, J., A. P. Barrett, B. Colle, D. Nelun Fernando, R. Fu, K. L. Geil, Q. Hu, J. Kinter, S. Kumar, __B. Langenbrunner__, K. Lombardo, L. N. Long, E. Maloney, A. Mariotti, J. E. Meyerson, K. C. Mo, J. David Neelin, S. Nigam, Z. Pan, T. Ren, A. Ruiz-Barradas, Y. L. Serra, A. Seth, J. M. Thibeault, J. C. Stroeve, Z. Yang, and L. Yin, 2013: [North American climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology][sheffield2013a_jclim].  _Journal of Climate_, __26 (23)__, 9209–9245.
 
-Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. _Journal of Climate_, __26 (17)__, 6238–6256.
+2. Neelin, J. D., __B. Langenbrunner__, J. E. Meyerson, A. Hall, and N. Berg, 2013: [California winter precipitation change under global warming in the Coupled Model Intercomparison Project phase 5 ensemble][neelin2013_jclim]. _Journal of Climate_, __26 (17)__, 6238–6256.
 
-__Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
+1. __Langenbrunner, B.__, and J. D. Neelin, 2013: [Analyzing ENSO teleconnections in CMIP models as a measure of model fidelity in simulating precipitation][langenbrunner2013_jclim]. _Journal of Climate_, __26 (13)__, 4431–4446.
 
 [langenbrunner2018_ef]: https://eartharxiv.org/9fesz
 [langenbrunner2018_ef_supp]: https://bairdlangenbrunner.github.io/papers/SI_langenbrunner_etal_2018_EarthArXiv_preprint.pdf
