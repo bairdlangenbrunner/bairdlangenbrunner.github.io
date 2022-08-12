@@ -12,11 +12,11 @@ G. Aitken, __B. Langenbrunner__, S. Zimmerman, April 2022: [Europe Gas Tracker R
 
 __B. Langenbrunner__, J. July, G. Aitken, February 2022: [Pipe Dreams 2022: Stranded assets and magical thinking in the proposed global gas pipeline buildout](https://globalenergymonitor.org/wp-content/uploads/2022/02/GEM_GasPipelineReport2022_r7.pdf), Global Energy Monitor.
 
+<div class="border-top-thin clearfix mt-3 mb-3 "></div>
+
 ## Academic work
 
 Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date academic publications, including those from my editorial role at _Nature Climate Change_.
-
-<div class="border-top-thin clearfix mt-3 mb-3 "></div>
 
 <!--## In progress-->
 <!--## Published-->
