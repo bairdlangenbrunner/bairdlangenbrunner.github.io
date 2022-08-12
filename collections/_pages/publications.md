@@ -1,15 +1,27 @@
 ---
-title: publications
-permalink: /publications/
+title: work
+permalink: /work/
 order: 4
 ---
 
-Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date publications, including those from my current editorial role.
+## Nonprofit work
+
+__B. Langenbrunner__, April 2022: [Europe Gas Tracker dashboard](https://globalenergymonitor.org/projects/europe-gas-tracker/dashboard/), Global Energy Monitor.
+
+G. Aitken, __B. Langenbrunner__, S. Zimmerman, April 2022: [Europe Gas Tracker Report](https://globalenergymonitor.org/wp-content/uploads/2022/04/EUGasReport2022_final.pdf), Global Energy Monitor.
+
+__B. Langenbrunner__, J. July, G. Aitken, February 2022: [Pipe Dreams 2022: Stranded assets and magical thinking in the proposed global gas pipeline buildout](https://globalenergymonitor.org/wp-content/uploads/2022/02/GEM_GasPipelineReport2022_r7.pdf), Global Energy Monitor.
+
+## Academic work
+
+Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date academic publications, including those from my editorial role at _Nature Climate Change_.
 
 <div class="border-top-thin clearfix mt-3 mb-3 "></div>
 
 <!--## In progress-->
 <!--## Published-->
+
+Schiro, K., H. Su, Y. Wang, __B. Langenbrunner__, J. H. Jiang, J. D. Neelin, 2019: [Relationships between tropical ascent and high cloud fraction changes with warming revealed by perturbation physics experiments in CAM5][schiro2019_grl]. _Geophysical Research Letters_, __46__, 9226–9235.
 
 __Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: [Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>?][langenbrunner2019_ef] _Earth's Future_, __7 (4)__, 450-468.
 * Download the [EarthArXiv preprint][langenbrunner2018_ef] and the [supplement][langenbrunner2018_ef_supp].
