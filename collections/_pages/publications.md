@@ -21,6 +21,8 @@ _Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=
 <!--## In progress-->
 <!--## Published-->
 
+16. Gutierrez, A. A., S. Hantson, __B. Langenbrunner__, B. Chen, Y. Jin, M. L. Goulden, and J. T. Randerson, 2021: [Wildfire response to changing daily temperature extremes in California’s Sierra Nevada][gutierrez2021_sciadv]. _Science Advances_, __7__, eabe6417.
+
 15. Schiro, K., H. Su, Y. Wang, __B. Langenbrunner__, J. H. Jiang, J. D. Neelin, 2019: [Relationships between tropical ascent and high cloud fraction changes with warming revealed by perturbation physics experiments in CAM5][schiro2019_grl]. _Geophysical Research Letters_, __46__, 9226–9235.
 
 14. __Langenbrunner, B.__, M. S. Pritchard, G. J. Kooperman, and J. T. Randerson, 2018: [Why does Amazon precipitation decrease when tropical forests respond to increasing CO<sub>2</sub>?][langenbrunner2019_ef] _Earth's Future_, __7 (4)__, 450-468.
