@@ -14,7 +14,7 @@ __B. Langenbrunner__, J. July, G. Aitken, February 2022: [Pipe Dreams 2022: Stra
 
 <div class="border-top-thin clearfix mt-3 mb-3 "></div>
 
-## Academic work
+## Academic and editorial work
 
 _Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=QWDQ5fIAAAAJ&view_op=list_works&sortby=pubdate) for my most up-to-date academic publications, including those from my editorial role._
 
